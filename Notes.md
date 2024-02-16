@@ -21,6 +21,27 @@ This script resamples the DEM to a desired grid for simulation.
 * Does some further reprocessing of the DEM and then plots flow accumulation and flow directions using the GSFLOW utilities, to get everything ready for modflow/gsflow.
 
 ### 3) ProcessWatersheds.py - get full watershed, and subwatersheds.
+In order to get watershed boundaries for our new raster, we'll need to find appropriate pour points.  This is best done using QGIS.  Open up a map fill your filled, burned DEM, along with the Rattlesnake Flowlines shape file and the original Rattlesnake Watershed shapefile.  So, for some context, first of all the NHD flowlines that make up the Rattlesnake flowlines aren't perfect.  They were our best guess at the channel sometime in the past.  Riley knows that channels move.  They probably weren't correct everywhere to begin with.  But now, our DEM is not really the same as the real world any way, so we're going to have to do some sleuthing to find the correct pour points.  
+
+#### Create Shapefiles in Q
+1. Create a new layer: Layer->Create Layer->New Shapefile Layer
+    * Call it Rattlesnake.shp or something
+    * Make the geometry `point`
+    * Make its coordinate system UTM 12N
+    * Save it in your `data/gis/` folder
+    * I add a field called `Drainage` where I will store an identifying name.
+2. Find the pour point.
+    * use the information pointer tool, to identify the lowest elevation cell at the mouth of the drainage.  
+    * hint: I change the symbology of the DEM to pseudo color, and rescale the min-max to the current canvas after I zoomed into the area near the mouth.
+    * Edit the shapefile
+      * Add a point in the middle of cell of lowest elevation.
+      * label the drainage "Main Rattlesnake Creek" or something like that
+      * Save edits
+3. Create another shapefile called RattlesnakeSubSheds.shp
+    * Using the same procedure as above, add pour points for all branching drainages seen in flow lines (except the irrigation ditches).
+    * The pour points need to be above the main Rattlesnake channel, but as close as you can get to it.  It takes some clicking around to figure out what's going on.
+    * You can figure out the name of the subwatershed for labeling by using the information pointer on the flowlines shapes file.
+    * Hint:  you might want to rescale the symbology occasionally to help visualize elevation differences near a given confluence.
 
 ### 4) Process Streams and Cascades
 
