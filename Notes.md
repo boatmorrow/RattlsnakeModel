@@ -42,13 +42,15 @@ In order to get watershed boundaries for our new raster, we'll need to find appr
     * The pour points need to be above the main Rattlesnake channel, but as close as you can get to it.  It takes some clicking around to figure out what's going on.
     * You can figure out the name of the subwatershed for labeling by using the information pointer on the flowlines shapes file.
     * Hint:  you might want to rescale the symbology occasionally to help visualize elevation differences near a given confluence.
+#### Run ProcessWatershed.py
+This script calculates the uplope areas for all your different pour points.  It it needs the name of your Rattlesnake pour point shape file made above and the subsheds shapefile name made above.  It should produce a figure with the different watershed areas, as well write some file for our use later.
 
 ### 4) Process Streams and Cascades
 
-#### 5) MODFLOW - time to build the subsuface!
+### 5) MODFLOW - time to build the subsurface!
 
-#### 6) MODFLOW SFR
+### 6) MODFLOW SFR
 
-#### MODFLOW SIMULATIONS
+### MODFLOW SIMULATIONS
 
 #### 7) SOIL
