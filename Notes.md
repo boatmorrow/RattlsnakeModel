@@ -52,6 +52,9 @@ In this script, we'll create stream network and cascades, which are used in a su
 * Much like creating stream networks using SAGA, we'll need to play around with an area threshold for initiating the stream.  This variable is called `threshold_m2` in the script.  Try to match the NHD flowlines as best as possible.
 
 ### 5) MODFLOW - time to build the subsurface!
+In this script we'll create in initial MODFLOW model.  This will be a super basic model, just to get a forward MODFLOW model running.  This model will then be modified to create more complicated versions.  To get this model running, you mostly need to:
+* Get paths all managed up
+* In particular, the executable needs to be in the path.
 
 ### 6) MODFLOW SFR
 
