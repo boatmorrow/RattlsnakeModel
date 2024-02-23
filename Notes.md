@@ -42,10 +42,14 @@ In order to get watershed boundaries for our new raster, we'll need to find appr
     * The pour points need to be above the main Rattlesnake channel, but as close as you can get to it.  It takes some clicking around to figure out what's going on.
     * You can figure out the name of the subwatershed for labeling by using the information pointer on the flowlines shapes file.
     * Hint:  you might want to rescale the symbology occasionally to help visualize elevation differences near a given confluence.
+
 #### Run ProcessWatershed.py
 This script calculates the uplope areas for all your different pour points.  It it needs the name of your Rattlesnake pour point shape file made above and the subsheds shapefile name made above.  It should produce a figure with the different watershed areas, as well write some file for our use later.
 
 ### 4) Process Streams and Cascades
+In this script, we'll create stream network and cascades, which are used in a subsequent step to define the location of stream cells in the model for the stream boundary condition.
+* Make sure to the file path names to match your directory structure.
+* Much like creating stream networks using SAGA, we'll need to play around with an area threshold for initiating the stream.  This variable is called `threshold_m2` in the script.  Try to match the NHD flowlines as best as possible.
 
 ### 5) MODFLOW - time to build the subsurface!
 
