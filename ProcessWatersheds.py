@@ -40,13 +40,13 @@ gis_derived_path = os.path.join(model_path,"gis_deriv")
 gis_data_path = os.path.join('data','gis')
 
 #file names - Make sure they match your file names
-shp_file_nm="RattlesnakePourPoint.shp"
+shp_file_nm="RattlesnakeMainDrainagePourPoint.shp"
 dfname = "DEMResampledFA.txt"
 flowdirname = "flowdir.txt"
 flowaccname = "flowacc.txt"
 
 ## shapefile for main Rattlesnake pour point
-shp_file = os.path.join(gis_data_path,shp_file_nm)
+shp_file = os.path.join(gis_derived_path,shp_file_nm)
 dem_file = os.path.join(gis_derived_path, dfname)
 
 ## subsheds shapefile
