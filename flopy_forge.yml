@@ -1,0 +1,23 @@
+name: 
+  /Users/payton.gardner/proj/active/MountainAquiferHydrology/LubrechtBedrockHillslopeHydrology/modeling/CapWallace_pyGSFLOW/.conda
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - ipykernel
+  - jupyter
+  - matplotlib
+  - scipy
+  - pyshp
+  - netcdf4
+  - pyproj
+  - shapely
+  - descartes
+  - geojson
+  - rasterstats
+  - flopy
+  - numba
+prefix: 
+  /Users/payton.gardner/proj/active/MountainAquiferHydrology/LubrechtBedrockHillslopeHydrology/modeling/CapWallace_pyGSFLOW/.conda
