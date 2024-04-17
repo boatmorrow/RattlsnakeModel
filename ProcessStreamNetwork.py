@@ -83,7 +83,7 @@ fa = FlowAccumulation(
 
 #area threshold - area in square meters for start of stream, should be adjusted
 # so there are not too many short reaches
-threshold_m2 = 4.0e6
+threshold_m2 = 3e6
 threshold = threshold_m2 / (cellsize ** 2) #threshold is in cells, not area like Q
 
 # run make streams

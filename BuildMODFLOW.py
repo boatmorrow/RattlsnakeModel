@@ -31,7 +31,7 @@ method = "nearest"
 #model name
 model_name = "Rattlesnakecreek_%3im"%cellsize+method
 
-#toplevel output path
+#toplevel ouput path
 model_path = os.path.join("models",model_name)
 
 #derived gis output path

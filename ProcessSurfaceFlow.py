@@ -40,7 +40,7 @@ gis_derived_path = os.path.join(model_path,"gis_deriv")
 mg_file = os.path.join(model_path, "grid.bin")
 
 # Reprocessed, resampled DEM with SAGA needs to be used for flow accumulation
-dem_data = os.path.join(gis_derived_path, "DEMResampledFilledBurned.tif")
+dem_data = os.path.join(gis_derived_path, "YourResampledFilledBurnedDEMName.tif")
 
 #######################################################
 #PROCESS FLOW ACCUMULATION

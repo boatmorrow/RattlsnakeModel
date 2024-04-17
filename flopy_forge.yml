@@ -1,5 +1,5 @@
 name: 
-  /Users/payton.gardner/proj/active/MountainAquiferHydrology/LubrechtBedrockHillslopeHydrology/modeling/CapWallace_pyGSFLOW/.conda
+  gsflow
 channels:
   - conda-forge
   - defaults
@@ -20,4 +20,3 @@ dependencies:
   - flopy
   - numba
 prefix: 
-  /Users/payton.gardner/proj/active/MountainAquiferHydrology/LubrechtBedrockHillslopeHydrology/modeling/CapWallace_pyGSFLOW/.conda
