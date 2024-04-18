@@ -28,7 +28,7 @@ cellsize=100
 method = "nearest"
 
 #model name
-model_name = "Rattlesnakecreek_%3im"%cellsize+method
+model_name = "RattlesnakeCreek_%3im"%cellsize+method
 
 #toplevel ouput path
 model_path = os.path.join("models",model_name)
