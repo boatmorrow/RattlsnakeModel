@@ -30,7 +30,7 @@ cellsize=100
 method = "nearest"
 
 #model name
-model_name = "Rattlesnakecreek_%3im"%cellsize+method
+model_name = "RattlesnakeCreek_%3im"%cellsize+method
 
 #toplevel ouput path
 model_path = os.path.join("models",model_name)
@@ -42,7 +42,7 @@ gis_derived_path = os.path.join(model_path,"gis_deriv")
 gis_data_path = os.path.join('data','gis')
 
 #file names
-shp_file_nm="RattlesnakePourPoint.shp"
+shp_file_nm="RattlesnakeMainDrainagePourPoint.shp"
 dfname = "DEMResampledFA.txt"
 flowdirname = "flowdir.txt"
 flowaccname = "flowacc.txt"
@@ -50,7 +50,7 @@ watershedname = "watershed.txt"
 gridname = "grid.bin"
 
 ## shapefile pour point
-shp_file = os.path.join(gis_data_path,shp_file_nm)
+shp_file = os.path.join(gis_derived_path,shp_file_nm)
 dem_file = os.path.join(gis_derived_path, dfname)
 flowacc_file = os.path.join(gis_derived_path, flowaccname)
 flowdir_file = os.path.join(gis_derived_path, flowdirname)
