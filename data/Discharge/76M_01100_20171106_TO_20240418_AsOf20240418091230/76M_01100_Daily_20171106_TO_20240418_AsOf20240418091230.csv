@@ -1,0 +1,2355 @@
+"Rattlesnake Cr nr Missoula, MT", 76M 01100
+Timestamp,Stage.Daily Average@76M 01100 (ft),Approval Name,Discharge.Daily Average@76M 01100 (ft^3/s),Approval Name
+2017-11-08 00:00,2.360,Approved,,
+2017-11-09 00:00,2.354,Approved,25.73,Approved
+2017-11-10 00:00,2.366,Approved,26.99,Approved
+2017-11-11 00:00,2.373,Approved,27.73,Approved
+2017-11-12 00:00,2.380,Approved,28.52,Approved
+2017-11-13 00:00,2.376,Approved,28.10,Approved
+2017-11-14 00:00,2.373,Approved,27.80,Approved
+2017-11-15 00:00,2.377,Approved,28.21,Approved
+2017-11-16 00:00,2.357,Approved,26.04,Approved
+2017-11-17 00:00,2.356,Approved,25.85,Approved
+2017-11-18 00:00,2.362,Approved,26.61,Approved
+2017-11-19 00:00,2.352,Approved,25.47,Approved
+2017-11-20 00:00,2.337,Approved,23.86,Approved
+2017-11-21 00:00,2.397,Approved,30.64,Approved
+2017-11-22 00:00,2.423,Approved,33.51,Approved
+2017-11-23 00:00,2.542,Approved,48.24,Approved
+2017-11-24 00:00,2.867,Approved,92.21,Approved
+2017-11-25 00:00,3.611,Approved,287.0,Approved
+2017-11-26 00:00,3.333,Approved,196.9,Approved
+2017-11-27 00:00,3.164,Approved,150.3,Approved
+2017-11-28 00:00,3.101,Approved,134.4,Approved
+2017-11-29 00:00,3.022,Approved,116.0,Approved
+2017-11-30 00:00,2.965,Approved,103.5,Approved
+2017-12-01 00:00,2.901,Approved,92.05,Approved
+2017-12-02 00:00,2.861,Approved,87.11,Approved
+2017-12-03 00:00,2.818,Approved,81.96,Approved
+2017-12-04 00:00,2.795,Approved,79.19,Approved
+2017-12-05 00:00,2.750,Approved,73.95,Approved
+2017-12-06 00:00,2.711,Approved,69.32,Approved
+2017-12-07 00:00,2.658,Approved,62.80,Approved
+2017-12-08 00:00,2.630,Approved,59.22,Approved
+2017-12-09 00:00,2.601,Approved,55.41,Approved
+2017-12-10 00:00,2.545,Approved,48.32,Approved
+2017-12-11 00:00,2.543,Approved,48.03,Approved
+2017-12-12 00:00,2.619,Approved,57.76,Approved
+2017-12-13 00:00,2.717,Approved,70.95,Approved
+2017-12-14 00:00,2.683,Approved,65.92,Approved
+2017-12-15 00:00,2.554,Approved,49.52,Approved
+2017-12-16 00:00,2.519,Approved,45.07,Approved
+2017-12-17 00:00,2.517,Approved,44.75,Approved
+2017-12-18 00:00,2.500,Approved,42.76,Approved
+2017-12-19 00:00,2.513,Approved,44.30,Approved
+2017-12-20 00:00,2.550,Approved,48.92,Approved
+2017-12-21 00:00,2.558,Approved,49.95,Approved
+2017-12-22 00:00,2.530,Approved,46.43,Approved
+2017-12-23 00:00,2.528,Approved,46.17,Approved
+2017-12-24 00:00,2.508,Approved,41.85,Approved
+2017-12-25 00:00,2.864,Approved,42.36,Approved
+2017-12-26 00:00,3.472,Approved,45.92,Approved
+2017-12-27 00:00,3.848,Approved,45.55,Approved
+2017-12-28 00:00,3.939,Approved,44.38,Approved
+2017-12-29 00:00,3.982,Approved,43.36,Approved
+2017-12-30 00:00,4.053,Approved,38.86,Approved
+2017-12-31 00:00,3.953,Approved,39.83,Approved
+2018-01-01 00:00,3.851,Approved,43.13,Approved
+2018-01-02 00:00,3.656,Approved,40.34,Approved
+2018-01-03 00:00,3.291,Approved,26.97,Approved
+2018-01-04 00:00,3.662,Approved,44.37,Approved
+2018-01-05 00:00,3.636,Approved,45.51,Approved
+2018-01-06 00:00,3.346,Approved,46.78,Approved
+2018-01-07 00:00,3.066,Approved,45.40,Approved
+2018-01-08 00:00,2.468,Approved,38.85,Approved
+2018-01-09 00:00,2.447,Approved,36.32,Approved
+2018-01-10 00:00,2.440,Approved,35.51,Approved
+2018-01-11 00:00,2.469,Approved,38.99,Approved
+2018-01-12 00:00,2.461,Approved,37.97,Approved
+2018-01-13 00:00,2.460,Approved,37.90,Approved
+2018-01-14 00:00,2.463,Approved,38.27,Approved
+2018-01-15 00:00,2.464,Approved,38.29,Approved
+2018-01-16 00:00,2.461,Approved,37.95,Approved
+2018-01-17 00:00,2.442,Approved,35.68,Approved
+2018-01-18 00:00,2.416,Approved,32.67,Approved
+2018-01-19 00:00,2.437,Approved,35.16,Approved
+2018-01-20 00:00,2.467,Approved,38.65,Approved
+2018-01-21 00:00,2.460,Approved,37.85,Approved
+2018-01-22 00:00,2.450,Approved,36.71,Approved
+2018-01-23 00:00,2.449,Approved,36.57,Approved
+2018-01-24 00:00,2.441,Approved,35.61,Approved
+2018-01-25 00:00,2.440,Approved,35.50,Approved
+2018-01-26 00:00,2.440,Approved,35.49,Approved
+2018-01-27 00:00,2.437,Approved,35.08,Approved
+2018-01-28 00:00,2.431,Approved,34.39,Approved
+2018-01-29 00:00,2.432,Approved,34.54,Approved
+2018-01-30 00:00,2.425,Approved,33.70,Approved
+2018-01-31 00:00,2.449,Approved,36.54,Approved
+2018-02-01 00:00,2.450,Approved,36.67,Approved
+2018-02-02 00:00,2.441,Approved,35.59,Approved
+2018-02-03 00:00,2.452,Approved,36.87,Approved
+2018-02-04 00:00,2.504,Approved,43.25,Approved
+2018-02-05 00:00,2.681,Approved,65.35,Approved
+2018-02-06 00:00,2.993,Approved,109.8,Approved
+2018-02-07 00:00,2.949,Approved,100.4,Approved
+2018-02-08 00:00,2.875,Approved,88.75,Approved
+2018-02-09 00:00,2.960,Approved,104.2,Approved
+2018-02-10 00:00,3.032,Approved,118.4,Approved
+2018-02-11 00:00,2.962,Approved,102.9,Approved
+2018-02-12 00:00,2.898,Approved,91.68,Approved
+2018-02-13 00:00,2.799,Approved,79.74,Approved
+2018-02-14 00:00,2.884,Approved,91.36,Approved
+2018-02-15 00:00,2.834,Approved,83.85,Approved
+2018-02-16 00:00,2.721,Approved,70.49,Approved
+2018-02-17 00:00,2.676,Approved,65.19,Approved
+2018-02-18 00:00,2.660,Approved,63.16,Approved
+2018-02-19 00:00,2.633,Approved,59.60,Approved
+2018-02-20 00:00,2.601,Approved,55.47,Approved
+2018-02-21 00:00,2.611,Approved,56.74,Approved
+2018-02-22 00:00,2.607,Approved,56.28,Approved
+2018-02-23 00:00,2.635,Approved,59.73,Approved
+2018-02-24 00:00,2.583,Approved,53.12,Approved
+2018-02-25 00:00,2.565,Approved,50.78,Approved
+2018-02-26 00:00,2.590,Approved,54.08,Approved
+2018-02-27 00:00,2.563,Approved,50.58,Approved
+2018-02-28 00:00,2.528,Approved,46.22,Approved
+2018-03-01 00:00,2.509,Approved,43.78,Approved
+2018-03-02 00:00,2.496,Approved,42.18,Approved
+2018-03-03 00:00,2.491,Approved,41.55,Approved
+2018-03-04 00:00,2.471,Approved,39.21,Approved
+2018-03-05 00:00,2.463,Approved,38.22,Approved
+2018-03-06 00:00,2.451,Approved,36.82,Approved
+2018-03-07 00:00,2.442,Approved,35.76,Approved
+2018-03-08 00:00,2.434,Approved,34.82,Approved
+2018-03-09 00:00,2.438,Approved,35.26,Approved
+2018-03-10 00:00,2.467,Approved,38.70,Approved
+2018-03-11 00:00,2.450,Approved,36.67,Approved
+2018-03-12 00:00,2.439,Approved,35.40,Approved
+2018-03-13 00:00,2.437,Approved,35.11,Approved
+2018-03-14 00:00,2.445,Approved,36.13,Approved
+2018-03-15 00:00,2.468,Approved,38.79,Approved
+2018-03-16 00:00,2.493,Approved,41.80,Approved
+2018-03-17 00:00,2.502,Approved,42.99,Approved
+2018-03-18 00:00,2.514,Approved,44.47,Approved
+2018-03-19 00:00,2.557,Approved,49.84,Approved
+2018-03-20 00:00,2.548,Approved,48.64,Approved
+2018-03-21 00:00,2.541,Approved,47.73,Approved
+2018-03-22 00:00,2.544,Approved,48.18,Approved
+2018-03-23 00:00,2.557,Approved,49.80,Approved
+2018-03-24 00:00,2.611,Approved,56.69,Approved
+2018-03-25 00:00,2.631,Approved,59.37,Approved
+2018-03-26 00:00,2.625,Approved,58.61,Approved
+2018-03-27 00:00,2.618,Approved,57.67,Approved
+2018-03-28 00:00,2.611,Approved,56.75,Approved
+2018-03-29 00:00,2.627,Approved,58.88,Approved
+2018-03-30 00:00,2.623,Approved,58.27,Approved
+2018-03-31 00:00,2.632,Approved,59.53,Approved
+2018-04-01 00:00,2.635,Approved,59.83,Approved
+2018-04-02 00:00,2.627,Approved,58.80,Approved
+2018-04-03 00:00,2.628,Approved,58.97,Approved
+2018-04-04 00:00,2.613,Approved,57.03,Approved
+2018-04-05 00:00,2.612,Approved,56.80,Approved
+2018-04-06 00:00,2.634,Approved,59.74,Approved
+2018-04-07 00:00,2.669,Approved,64.34,Approved
+2018-04-08 00:00,2.668,Approved,64.17,Approved
+2018-04-09 00:00,2.721,Approved,70.52,Approved
+2018-04-10 00:00,2.750,Approved,73.92,Approved
+2018-04-11 00:00,2.763,Approved,75.46,Approved
+2018-04-12 00:00,2.840,Approved,84.54,Approved
+2018-04-13 00:00,2.961,Approved,102.9,Approved
+2018-04-14 00:00,2.959,Approved,102.2,Approved
+2018-04-15 00:00,2.943,Approved,98.89,Approved
+2018-04-16 00:00,2.963,Approved,103.2,Approved
+2018-04-17 00:00,3.101,Approved,135.2,Approved
+2018-04-18 00:00,3.217,Approved,164.0,Approved
+2018-04-19 00:00,3.164,Approved,150.1,Approved
+2018-04-20 00:00,3.120,Approved,139.1,Approved
+2018-04-21 00:00,3.143,Approved,144.9,Approved
+2018-04-22 00:00,3.238,Approved,169.6,Approved
+2018-04-23 00:00,3.307,Approved,189.0,Approved
+2018-04-24 00:00,3.344,Approved,199.5,Approved
+2018-04-25 00:00,3.315,Approved,191.1,Approved
+2018-04-26 00:00,3.373,Approved,208.2,Approved
+2018-04-27 00:00,3.562,Approved,269.0,Approved
+2018-04-28 00:00,3.895,Approved,395.1,Approved
+2018-04-29 00:00,4.305,Approved,581.7,Approved
+2018-04-30 00:00,4.548,Approved,709.1,Approved
+2018-05-01 00:00,4.316,Approved,587.2,Approved
+2018-05-02 00:00,4.118,Approved,491.3,Approved
+2018-05-03 00:00,4.002,Approved,439.3,Approved
+2018-05-04 00:00,3.928,Approved,408.0,Approved
+2018-05-05 00:00,4.134,Approved,499.6,Approved
+2018-05-06 00:00,4.513,Approved,689.4,Approved
+2018-05-07 00:00,4.652,Approved,768.0,Approved
+2018-05-08 00:00,5.133,Approved,1067.1,Approved
+2018-05-09 00:00,5.057,Approved,1015.8,Approved
+2018-05-10 00:00,5.098,Approved,1043.3,Approved
+2018-05-11 00:00,5.216,Approved,1124.7,Approved
+2018-05-12 00:00,4.915,Approved,925.7,Approved
+2018-05-13 00:00,4.552,Approved,711.6,Approved
+2018-05-14 00:00,4.440,Approved,650.3,Approved
+2018-05-15 00:00,4.513,Approved,689.8,Approved
+2018-05-16 00:00,4.759,Approved,829.5,Approved
+2018-05-17 00:00,4.910,Approved,922.0,Approved
+2018-05-18 00:00,4.870,Approved,896.9,Approved
+2018-05-19 00:00,4.798,Approved,852.6,Approved
+2018-05-20 00:00,4.587,Approved,730.9,Approved
+2018-05-21 00:00,4.392,Approved,625.3,Approved
+2018-05-22 00:00,4.548,Approved,708.5,Approved
+2018-05-23 00:00,4.751,Approved,824.9,Approved
+2018-05-24 00:00,4.885,Approved,906.4,Approved
+2018-05-25 00:00,4.982,Approved,967.6,Approved
+2018-05-26 00:00,4.941,Approved,941.2,Approved
+2018-05-27 00:00,5.081,Approved,1032.3,Approved
+2018-05-28 00:00,4.980,Approved,966.8,Approved
+2018-05-29 00:00,4.863,Approved,893.1,Approved
+2018-05-30 00:00,4.802,Approved,855.3,Approved
+2018-05-31 00:00,4.691,Approved,789.6,Approved
+2018-06-01 00:00,4.583,Approved,728.4,Approved
+2018-06-02 00:00,4.895,Approved,913.3,Approved
+2018-06-03 00:00,4.625,Approved,752.9,Approved
+2018-06-04 00:00,4.395,Approved,627.3,Approved
+2018-06-05 00:00,4.497,Approved,681.0,Approved
+2018-06-06 00:00,4.403,Approved,631.9,Approved
+2018-06-07 00:00,4.243,Approved,550.7,Approved
+2018-06-08 00:00,4.160,Approved,510.8,Approved
+2018-06-09 00:00,4.143,Approved,503.1,Approved
+2018-06-10 00:00,4.112,Approved,488.8,Approved
+2018-06-11 00:00,4.136,Approved,500.0,Approved
+2018-06-12 00:00,3.983,Approved,431.4,Approved
+2018-06-13 00:00,3.809,Approved,359.8,Approved
+2018-06-14 00:00,3.706,Approved,320.1,Approved
+2018-06-15 00:00,3.713,Approved,322.8,Approved
+2018-06-16 00:00,3.691,Approved,314.6,Approved
+2018-06-17 00:00,3.712,Approved,322.7,Approved
+2018-06-18 00:00,3.690,Approved,314.2,Approved
+2018-06-19 00:00,3.658,Approved,302.7,Approved
+2018-06-20 00:00,3.796,Approved,354.3,Approved
+2018-06-21 00:00,3.738,Approved,332.3,Approved
+2018-06-22 00:00,3.702,Approved,318.5,Approved
+2018-06-23 00:00,3.731,Approved,329.4,Approved
+2018-06-24 00:00,3.901,Approved,401.1,Approved
+2018-06-25 00:00,4.234,Approved,547.1,Approved
+2018-06-26 00:00,3.983,Approved,431.6,Approved
+2018-06-27 00:00,3.832,Approved,368.8,Approved
+2018-06-28 00:00,3.710,Approved,321.7,Approved
+2018-06-29 00:00,3.604,Approved,283.2,Approved
+2018-06-30 00:00,3.526,Approved,256.1,Approved
+2018-07-01 00:00,3.488,Approved,243.5,Approved
+2018-07-02 00:00,3.468,Approved,237.0,Approved
+2018-07-03 00:00,3.397,Approved,214.3,Approved
+2018-07-04 00:00,3.342,Approved,197.3,Approved
+2018-07-05 00:00,3.301,Approved,185.2,Approved
+2018-07-06 00:00,3.246,Approved,169.4,Approved
+2018-07-07 00:00,3.205,Approved,158.1,Approved
+2018-07-08 00:00,3.169,Approved,148.4,Approved
+2018-07-09 00:00,3.130,Approved,138.4,Approved
+2018-07-10 00:00,3.093,Approved,129.2,Approved
+2018-07-11 00:00,3.060,Approved,121.0,Approved
+2018-07-12 00:00,3.025,Approved,112.8,Approved
+2018-07-13 00:00,2.992,Approved,105.2,Approved
+2018-07-14 00:00,2.963,Approved,98.66,Approved
+2018-07-15 00:00,2.933,Approved,93.11,Approved
+2018-07-16 00:00,2.903,Approved,89.22,Approved
+2018-07-17 00:00,2.875,Approved,85.61,Approved
+2018-07-18 00:00,2.853,Approved,82.86,Approved
+2018-07-19 00:00,2.830,Approved,79.91,Approved
+2018-07-20 00:00,2.803,Approved,76.39,Approved
+2018-07-21 00:00,2.780,Approved,73.49,Approved
+2018-07-22 00:00,2.758,Approved,70.74,Approved
+2018-07-23 00:00,2.738,Approved,68.11,Approved
+2018-07-24 00:00,2.722,Approved,66.02,Approved
+2018-07-25 00:00,2.695,Approved,62.41,Approved
+2018-07-26 00:00,2.671,Approved,59.04,Approved
+2018-07-27 00:00,2.653,Approved,56.36,Approved
+2018-07-28 00:00,2.632,Approved,53.49,Approved
+2018-07-29 00:00,2.623,Approved,52.06,Approved
+2018-07-30 00:00,2.604,Approved,49.45,Approved
+2018-07-31 00:00,2.589,Approved,47.28,Approved
+2018-08-01 00:00,2.576,Approved,45.44,Approved
+2018-08-02 00:00,2.567,Approved,44.17,Approved
+2018-08-03 00:00,2.549,Approved,41.67,Approved
+2018-08-04 00:00,2.537,Approved,40.05,Approved
+2018-08-05 00:00,2.533,Approved,39.41,Approved
+2018-08-06 00:00,2.527,Approved,38.41,Approved
+2018-08-07 00:00,2.516,Approved,36.98,Approved
+2018-08-08 00:00,2.491,Approved,34.11,Approved
+2018-08-09 00:00,2.473,Approved,32.53,Approved
+2018-08-10 00:00,2.457,Approved,31.20,Approved
+2018-08-11 00:00,2.442,Approved,30.04,Approved
+2018-08-12 00:00,2.432,Approved,29.41,Approved
+2018-08-13 00:00,2.425,Approved,29.27,Approved
+2018-08-14 00:00,2.421,Approved,29.27,Approved
+2018-08-15 00:00,2.411,Approved,28.75,Approved
+2018-08-16 00:00,2.401,Approved,28.11,Approved
+2018-08-17 00:00,2.382,Approved,26.54,Approved
+2018-08-18 00:00,2.364,Approved,25.08,Approved
+2018-08-19 00:00,2.362,Approved,25.42,Approved
+2018-08-20 00:00,2.352,Approved,24.88,Approved
+2018-08-21 00:00,2.374,Approved,27.80,Approved
+2018-08-22 00:00,2.447,Approved,36.34,Approved
+2018-08-23 00:00,2.399,Approved,30.69,Approved
+2018-08-24 00:00,2.376,Approved,27.99,Approved
+2018-08-25 00:00,2.359,Approved,26.07,Approved
+2018-08-26 00:00,2.346,Approved,24.65,Approved
+2018-08-27 00:00,2.357,Approved,25.81,Approved
+2018-08-28 00:00,2.397,Approved,30.25,Approved
+2018-08-29 00:00,2.388,Approved,29.24,Approved
+2018-08-30 00:00,2.371,Approved,27.29,Approved
+2018-08-31 00:00,2.355,Approved,25.45,Approved
+2018-09-01 00:00,2.341,Approved,23.91,Approved
+2018-09-02 00:00,2.329,Approved,22.63,Approved
+2018-09-03 00:00,2.317,Approved,21.31,Approved
+2018-09-04 00:00,2.307,Approved,20.16,Approved
+2018-09-05 00:00,2.297,Approved,19.13,Approved
+2018-09-06 00:00,2.290,Approved,18.34,Approved
+2018-09-07 00:00,2.277,Approved,17.03,Approved
+2018-09-08 00:00,2.276,Approved,16.87,Approved
+2018-09-09 00:00,2.266,Approved,15.88,Approved
+2018-09-10 00:00,2.260,Approved,15.21,Approved
+2018-09-11 00:00,2.255,Approved,14.70,Approved
+2018-09-12 00:00,2.253,Approved,14.47,Approved
+2018-09-13 00:00,2.253,Approved,14.47,Approved
+2018-09-14 00:00,2.254,Approved,14.47,Approved
+2018-09-15 00:00,2.256,Approved,14.69,Approved
+2018-09-16 00:00,2.256,Approved,14.62,Approved
+2018-09-17 00:00,2.265,Approved,15.47,Approved
+2018-09-18 00:00,2.254,Approved,14.37,Approved
+2018-09-19 00:00,2.247,Approved,13.72,Approved
+2018-09-20 00:00,2.243,Approved,13.22,Approved
+2018-09-21 00:00,2.232,Approved,12.23,Approved
+2018-09-22 00:00,2.224,Approved,11.39,Approved
+2018-09-23 00:00,2.221,Approved,11.10,Approved
+2018-09-24 00:00,2.227,Approved,11.64,Approved
+2018-09-25 00:00,2.229,Approved,11.81,Approved
+2018-09-26 00:00,2.223,Approved,11.24,Approved
+2018-09-27 00:00,2.222,Approved,11.07,Approved
+2018-09-28 00:00,2.210,Approved,10.01,Approved
+2018-09-29 00:00,2.191,Approved,8.265,Approved
+2018-09-30 00:00,2.200,Approved,9.015,Approved
+2018-10-01 00:00,2.216,Approved,10.46,Approved
+2018-10-02 00:00,2.221,Approved,10.86,Approved
+2018-10-03 00:00,2.231,Approved,11.79,Approved
+2018-10-04 00:00,2.292,Approved,17.73,Approved
+2018-10-05 00:00,2.271,Approved,15.57,Approved
+2018-10-06 00:00,2.258,Approved,14.29,Approved
+2018-10-07 00:00,2.252,Approved,13.68,Approved
+2018-10-08 00:00,2.262,Approved,14.56,Approved
+2018-10-09 00:00,2.256,Approved,13.94,Approved
+2018-10-10 00:00,2.279,Approved,16.22,Approved
+2018-10-11 00:00,2.276,Approved,15.94,Approved
+2018-10-12 00:00,2.271,Approved,15.33,Approved
+2018-10-13 00:00,2.279,Approved,16.13,Approved
+2018-10-14 00:00,2.281,Approved,16.35,Approved
+2018-10-15 00:00,2.280,Approved,16.15,Approved
+2018-10-16 00:00,2.273,Approved,15.42,Approved
+2018-10-17 00:00,2.270,Approved,15.12,Approved
+2018-10-18 00:00,2.270,Approved,15.06,Approved
+2018-10-19 00:00,2.267,Approved,14.80,Approved
+2018-10-20 00:00,2.262,Approved,14.22,Approved
+2018-10-21 00:00,2.261,Approved,14.10,Approved
+2018-10-22 00:00,2.260,Approved,13.99,Approved
+2018-10-23 00:00,2.254,Approved,13.44,Approved
+2018-10-24 00:00,2.250,Approved,12.98,Approved
+2018-10-25 00:00,2.250,Approved,12.93,Approved
+2018-10-26 00:00,2.241,Approved,12.06,Approved
+2018-10-27 00:00,2.276,Approved,15.44,Approved
+2018-10-28 00:00,2.432,Approved,32.65,Approved
+2018-10-29 00:00,2.454,Approved,34.92,Approved
+2018-10-30 00:00,2.488,Approved,39.08,Approved
+2018-10-31 00:00,2.475,Approved,37.39,Approved
+2018-11-01 00:00,2.450,Approved,34.31,Approved
+2018-11-02 00:00,2.472,Approved,37.06,Approved
+2018-11-03 00:00,2.991,Approved,118.4,Approved
+2018-11-04 00:00,3.166,Approved,151.0,Approved
+2018-11-05 00:00,3.050,Approved,122.5,Approved
+2018-11-06 00:00,3.020,Approved,115.7,Approved
+2018-11-07 00:00,2.968,Approved,104.2,Approved
+2018-11-08 00:00,2.926,Approved,95.84,Approved
+2018-11-09 00:00,2.852,Approved,85.57,Approved
+2018-11-10 00:00,2.793,Approved,78.28,Approved
+2018-11-11 00:00,2.765,Approved,74.71,Approved
+2018-11-12 00:00,2.723,Approved,69.53,Approved
+2018-11-13 00:00,2.685,Approved,64.80,Approved
+2018-11-14 00:00,2.658,Approved,61.10,Approved
+2018-11-15 00:00,2.651,Approved,60.09,Approved
+2018-11-16 00:00,2.638,Approved,58.33,Approved
+2018-11-17 00:00,2.660,Approved,61.33,Approved
+2018-11-18 00:00,2.645,Approved,59.23,Approved
+2018-11-19 00:00,2.600,Approved,53.13,Approved
+2018-11-20 00:00,2.611,Approved,54.54,Approved
+2018-11-21 00:00,2.585,Approved,50.99,Approved
+2018-11-22 00:00,2.572,Approved,49.20,Approved
+2018-11-23 00:00,2.568,Approved,48.68,Approved
+2018-11-24 00:00,2.561,Approved,47.74,Approved
+2018-11-25 00:00,2.574,Approved,49.51,Approved
+2018-11-26 00:00,2.540,Approved,44.88,Approved
+2018-11-27 00:00,2.515,Approved,41.68,Approved
+2018-11-28 00:00,2.529,Approved,43.43,Approved
+2018-11-29 00:00,2.552,Approved,46.42,Approved
+2018-11-30 00:00,2.534,Approved,44.00,Approved
+2018-12-01 00:00,2.521,Approved,42.25,Approved
+2018-12-02 00:00,2.524,Approved,42.68,Approved
+2018-12-03 00:00,2.490,Approved,38.22,Approved
+2018-12-04 00:00,2.495,Approved,38.83,Approved
+2018-12-05 00:00,2.472,Approved,35.91,Approved
+2018-12-06 00:00,2.453,Approved,33.58,Approved
+2018-12-07 00:00,2.702,Approved,66.33,Approved
+2018-12-08 00:00,3.093,Approved,134.4,Approved
+2018-12-09 00:00,3.378,Approved,210.2,Approved
+2018-12-10 00:00,3.069,Approved,129.0,Approved
+2018-12-11 00:00,2.835,Approved,83.37,Approved
+2018-12-12 00:00,2.643,Approved,58.51,Approved
+2018-12-13 00:00,2.463,Approved,34.57,Approved
+2018-12-14 00:00,2.418,Approved,29.07,Approved
+2018-12-15 00:00,2.404,Approved,27.50,Approved
+2018-12-16 00:00,2.406,Approved,27.64,Approved
+2018-12-17 00:00,2.400,Approved,26.90,Approved
+2018-12-18 00:00,2.405,Approved,27.51,Approved
+2018-12-19 00:00,2.425,Approved,29.77,Approved
+2018-12-20 00:00,2.428,Approved,29.99,Approved
+2018-12-21 00:00,2.407,Approved,27.64,Approved
+2018-12-22 00:00,2.408,Approved,27.62,Approved
+2018-12-23 00:00,2.396,Approved,26.28,Approved
+2018-12-24 00:00,2.385,Approved,25.07,Approved
+2018-12-25 00:00,2.394,Approved,26.01,Approved
+2018-12-26 00:00,2.384,Approved,24.93,Approved
+2018-12-27 00:00,2.376,Approved,24.03,Approved
+2018-12-28 00:00,2.376,Approved,23.92,Approved
+2018-12-29 00:00,2.368,Approved,23.08,Approved
+2018-12-30 00:00,2.374,Approved,23.63,Approved
+2018-12-31 00:00,2.380,Approved,24.31,Approved
+2019-01-01 00:00,2.345,Approved,20.86,Approved
+2019-01-02 00:00,2.619,Approved,,
+2019-01-03 00:00,2.835,Approved,,
+2019-01-04 00:00,2.541,Approved,,
+2019-01-05 00:00,2.383,Approved,,
+2019-01-06 00:00,2.369,Approved,,
+2019-01-07 00:00,2.365,Approved,,
+2019-01-08 00:00,2.368,Approved,,
+2019-01-09 00:00,2.352,Approved,,
+2019-01-10 00:00,2.343,Approved,,
+2019-01-11 00:00,2.346,Approved,,
+2019-01-12 00:00,2.341,Approved,,
+2019-01-13 00:00,2.326,Approved,,
+2019-01-14 00:00,2.295,Approved,,
+2019-01-15 00:00,2.454,Approved,,
+2019-01-16 00:00,2.731,Approved,,
+2019-01-17 00:00,2.996,Approved,,
+2019-01-18 00:00,3.220,Approved,,
+2019-01-19 00:00,3.186,Approved,,
+2019-01-20 00:00,2.664,Approved,,
+2019-01-21 00:00,2.373,Approved,,
+2019-01-22 00:00,2.355,Approved,,
+2019-01-23 00:00,2.340,Approved,,
+2019-01-24 00:00,2.345,Approved,,
+2019-01-25 00:00,2.337,Approved,,
+2019-01-26 00:00,2.336,Approved,,
+2019-01-27 00:00,2.330,Approved,,
+2019-01-28 00:00,2.330,Approved,,
+2019-01-29 00:00,2.323,Approved,,
+2019-01-30 00:00,2.306,Approved,,
+2019-01-31 00:00,2.443,Approved,,
+2019-02-01 00:00,2.467,Approved,,
+2019-02-02 00:00,2.334,Approved,,
+2019-02-03 00:00,2.328,Approved,,
+2019-02-04 00:00,2.354,Approved,,
+2019-02-05 00:00,2.622,Approved,,
+2019-02-06 00:00,2.979,Approved,,
+2019-02-07 00:00,3.085,Approved,,
+2019-02-08 00:00,3.035,Approved,,
+2019-02-09 00:00,2.946,Approved,,
+2019-02-10 00:00,2.742,Approved,,
+2019-02-11 00:00,2.482,Approved,,
+2019-02-12 00:00,3.099,Approved,,
+2019-02-13 00:00,3.312,Approved,,
+2019-02-14 00:00,3.191,Approved,,
+2019-02-15 00:00,3.038,Approved,,
+2019-02-16 00:00,2.908,Approved,,
+2019-02-17 00:00,2.793,Approved,,
+2019-02-18 00:00,2.362,Approved,,
+2019-02-19 00:00,2.355,Approved,,
+2019-02-20 00:00,2.413,Approved,,
+2019-02-21 00:00,2.403,Approved,,
+2019-02-22 00:00,2.392,Approved,,
+2019-02-23 00:00,2.423,Approved,,
+2019-02-24 00:00,2.478,Approved,,
+2019-02-25 00:00,2.471,Approved,,
+2019-02-26 00:00,2.885,Approved,,
+2019-02-27 00:00,3.173,Approved,,
+2019-02-28 00:00,3.078,Approved,,
+2019-03-01 00:00,3.031,Approved,,
+2019-03-02 00:00,2.947,Approved,,
+2019-03-03 00:00,2.723,Approved,,
+2019-03-04 00:00,2.414,Approved,,
+2019-03-05 00:00,2.334,Approved,,
+2019-03-06 00:00,2.518,Approved,,
+2019-03-07 00:00,2.888,Approved,,
+2019-03-08 00:00,3.005,Approved,,
+2019-03-09 00:00,2.838,Approved,,
+2019-03-10 00:00,2.703,Approved,,
+2019-03-11 00:00,2.560,Approved,,
+2019-03-12 00:00,2.470,Approved,,
+2019-03-13 00:00,2.420,Approved,,
+2019-03-14 00:00,2.308,Approved,,
+2019-03-15 00:00,2.277,Approved,,
+2019-03-16 00:00,2.267,Approved,16.42,Approved
+2019-03-17 00:00,2.269,Approved,16.65,Approved
+2019-03-18 00:00,2.277,Approved,17.43,Approved
+2019-03-19 00:00,2.289,Approved,18.60,Approved
+2019-03-20 00:00,2.313,Approved,21.09,Approved
+2019-03-21 00:00,2.358,Approved,25.88,Approved
+2019-03-22 00:00,2.427,Approved,33.70,Approved
+2019-03-23 00:00,2.512,Approved,43.84,Approved
+2019-03-24 00:00,2.600,Approved,54.81,Approved
+2019-03-25 00:00,2.652,Approved,61.49,Approved
+2019-03-26 00:00,2.720,Approved,69.77,Approved
+2019-03-27 00:00,2.790,Approved,77.98,Approved
+2019-03-28 00:00,2.808,Approved,80.03,Approved
+2019-03-29 00:00,2.808,Approved,79.99,Approved
+2019-03-30 00:00,2.775,Approved,75.99,Approved
+2019-03-31 00:00,2.752,Approved,73.22,Approved
+2019-04-01 00:00,2.749,Approved,72.79,Approved
+2019-04-02 00:00,2.760,Approved,74.08,Approved
+2019-04-03 00:00,2.788,Approved,77.38,Approved
+2019-04-04 00:00,2.828,Approved,82.05,Approved
+2019-04-05 00:00,2.869,Approved,86.87,Approved
+2019-04-06 00:00,2.955,Approved,99.38,Approved
+2019-04-07 00:00,3.072,Approved,125.0,Approved
+2019-04-08 00:00,3.143,Approved,142.0,Approved
+2019-04-09 00:00,3.332,Approved,192.6,Approved
+2019-04-10 00:00,3.518,Approved,251.2,Approved
+2019-04-11 00:00,3.552,Approved,261.9,Approved
+2019-04-12 00:00,3.455,Approved,229.9,Approved
+2019-04-13 00:00,3.348,Approved,196.9,Approved
+2019-04-14 00:00,3.265,Approved,173.2,Approved
+2019-04-15 00:00,3.202,Approved,156.2,Approved
+2019-04-16 00:00,3.139,Approved,140.0,Approved
+2019-04-17 00:00,3.083,Approved,126.3,Approved
+2019-04-18 00:00,3.050,Approved,118.7,Approved
+2019-04-19 00:00,3.066,Approved,122.1,Approved
+2019-04-20 00:00,3.266,Approved,174.1,Approved
+2019-04-21 00:00,4.099,Approved,484.7,Approved
+2019-04-22 00:00,4.307,Approved,580.0,Approved
+2019-04-23 00:00,4.114,Approved,486.4,Approved
+2019-04-24 00:00,4.095,Approved,477.1,Approved
+2019-04-25 00:00,4.269,Approved,560.6,Approved
+2019-04-26 00:00,4.285,Approved,568.7,Approved
+2019-04-27 00:00,4.133,Approved,494.6,Approved
+2019-04-28 00:00,3.992,Approved,430.6,Approved
+2019-04-29 00:00,3.839,Approved,366.3,Approved
+2019-04-30 00:00,3.691,Approved,308.8,Approved
+2019-05-01 00:00,3.561,Approved,262.2,Approved
+2019-05-02 00:00,3.462,Approved,228.9,Approved
+2019-05-03 00:00,3.388,Approved,205.8,Approved
+2019-05-04 00:00,3.327,Approved,187.6,Approved
+2019-05-05 00:00,3.316,Approved,184.3,Approved
+2019-05-06 00:00,3.406,Approved,210.9,Approved
+2019-05-07 00:00,3.573,Approved,265.8,Approved
+2019-05-08 00:00,3.824,Approved,359.3,Approved
+2019-05-09 00:00,3.973,Approved,421.4,Approved
+2019-05-10 00:00,3.986,Approved,426.7,Approved
+2019-05-11 00:00,3.979,Approved,423.4,Approved
+2019-05-12 00:00,4.083,Approved,470.3,Approved
+2019-05-13 00:00,4.378,Approved,615.6,Approved
+2019-05-14 00:00,4.569,Approved,719.5,Approved
+2019-05-15 00:00,4.704,Approved,797.0,Approved
+2019-05-16 00:00,4.733,Approved,813.9,Approved
+2019-05-17 00:00,4.794,Approved,850.2,Approved
+2019-05-18 00:00,5.072,Approved,1026.1,Approved
+2019-05-19 00:00,4.940,Approved,941.4,Approved
+2019-05-20 00:00,4.572,Approved,722.3,Approved
+2019-05-21 00:00,4.264,Approved,556.9,Approved
+2019-05-22 00:00,4.051,Approved,454.8,Approved
+2019-05-23 00:00,3.912,Approved,393.6,Approved
+2019-05-24 00:00,3.808,Approved,350.7,Approved
+2019-05-25 00:00,3.790,Approved,343.1,Approved
+2019-05-26 00:00,3.865,Approved,373.5,Approved
+2019-05-27 00:00,4.178,Approved,515.2,Approved
+2019-05-28 00:00,4.240,Approved,544.0,Approved
+2019-05-29 00:00,4.144,Approved,497.1,Approved
+2019-05-30 00:00,4.209,Approved,528.3,Approved
+2019-05-31 00:00,4.283,Approved,565.4,Approved
+2019-06-01 00:00,4.335,Approved,591.8,Approved
+2019-06-02 00:00,4.317,Approved,582.7,Approved
+2019-06-03 00:00,4.347,Approved,598.2,Approved
+2019-06-04 00:00,4.343,Approved,596.3,Approved
+2019-06-05 00:00,4.296,Approved,572.1,Approved
+2019-06-06 00:00,4.139,Approved,494.5,Approved
+2019-06-07 00:00,4.026,Approved,441.8,Approved
+2019-06-08 00:00,3.901,Approved,387.1,Approved
+2019-06-09 00:00,3.757,Approved,328.7,Approved
+2019-06-10 00:00,3.656,Approved,290.2,Approved
+2019-06-11 00:00,3.557,Approved,254.9,Approved
+2019-06-12 00:00,3.545,Approved,250.8,Approved
+2019-06-13 00:00,3.620,Approved,276.7,Approved
+2019-06-14 00:00,3.646,Approved,286.1,Approved
+2019-06-15 00:00,3.617,Approved,275.3,Approved
+2019-06-16 00:00,3.558,Approved,254.6,Approved
+2019-06-17 00:00,3.483,Approved,229.4,Approved
+2019-06-18 00:00,3.420,Approved,209.1,Approved
+2019-06-19 00:00,3.357,Approved,189.7,Approved
+2019-06-20 00:00,3.307,Approved,175.3,Approved
+2019-06-21 00:00,3.270,Approved,165.2,Approved
+2019-06-22 00:00,3.264,Approved,163.4,Approved
+2019-06-23 00:00,3.217,Approved,151.0,Approved
+2019-06-24 00:00,3.175,Approved,140.2,Approved
+2019-06-25 00:00,3.127,Approved,128.7,Approved
+2019-06-26 00:00,3.091,Approved,120.0,Approved
+2019-06-27 00:00,3.062,Approved,113.5,Approved
+2019-06-28 00:00,3.058,Approved,112.4,Approved
+2019-06-29 00:00,3.037,Approved,107.7,Approved
+2019-06-30 00:00,3.001,Approved,99.88,Approved
+2019-07-01 00:00,2.964,Approved,93.16,Approved
+2019-07-02 00:00,2.934,Approved,89.34,Approved
+2019-07-03 00:00,2.911,Approved,86.50,Approved
+2019-07-04 00:00,3.029,Approved,105.9,Approved
+2019-07-05 00:00,3.000,Approved,99.59,Approved
+2019-07-06 00:00,2.935,Approved,89.21,Approved
+2019-07-07 00:00,2.899,Approved,84.88,Approved
+2019-07-08 00:00,2.880,Approved,82.56,Approved
+2019-07-09 00:00,2.854,Approved,79.42,Approved
+2019-07-10 00:00,2.871,Approved,81.36,Approved
+2019-07-11 00:00,2.830,Approved,76.38,Approved
+2019-07-12 00:00,2.795,Approved,72.22,Approved
+2019-07-13 00:00,2.759,Approved,67.97,Approved
+2019-07-14 00:00,2.737,Approved,65.26,Approved
+2019-07-15 00:00,2.742,Approved,65.81,Approved
+2019-07-16 00:00,2.717,Approved,62.58,Approved
+2019-07-17 00:00,2.686,Approved,58.49,Approved
+2019-07-18 00:00,2.662,Approved,55.29,Approved
+2019-07-19 00:00,2.653,Approved,54.08,Approved
+2019-07-20 00:00,2.640,Approved,52.35,Approved
+2019-07-21 00:00,2.615,Approved,49.09,Approved
+2019-07-22 00:00,2.593,Approved,46.20,Approved
+2019-07-23 00:00,2.572,Approved,43.59,Approved
+2019-07-24 00:00,2.570,Approved,43.31,Approved
+2019-07-25 00:00,2.543,Approved,39.96,Approved
+2019-07-26 00:00,2.523,Approved,37.44,Approved
+2019-07-27 00:00,2.506,Approved,35.34,Approved
+2019-07-28 00:00,2.492,Approved,33.70,Approved
+2019-07-29 00:00,2.470,Approved,31.15,Approved
+2019-07-30 00:00,2.455,Approved,29.32,Approved
+2019-07-31 00:00,2.444,Approved,28.02,Approved
+2019-08-01 00:00,2.435,Approved,27.01,Approved
+2019-08-02 00:00,2.431,Approved,26.43,Approved
+2019-08-03 00:00,2.426,Approved,25.90,Approved
+2019-08-04 00:00,2.467,Approved,30.36,Approved
+2019-08-05 00:00,2.461,Approved,29.71,Approved
+2019-08-06 00:00,2.451,Approved,28.50,Approved
+2019-08-07 00:00,2.442,Approved,27.45,Approved
+2019-08-08 00:00,2.433,Approved,26.37,Approved
+2019-08-09 00:00,2.423,Approved,25.17,Approved
+2019-08-10 00:00,2.434,Approved,26.36,Approved
+2019-08-11 00:00,2.468,Approved,30.19,Approved
+2019-08-12 00:00,2.557,Approved,40.59,Approved
+2019-08-13 00:00,2.627,Approved,49.16,Approved
+2019-08-14 00:00,2.569,Approved,41.85,Approved
+2019-08-15 00:00,2.522,Approved,36.16,Approved
+2019-08-16 00:00,2.504,Approved,33.95,Approved
+2019-08-17 00:00,2.500,Approved,33.48,Approved
+2019-08-18 00:00,2.494,Approved,32.65,Approved
+2019-08-19 00:00,2.484,Approved,31.45,Approved
+2019-08-20 00:00,2.464,Approved,29.17,Approved
+2019-08-21 00:00,2.444,Approved,26.88,Approved
+2019-08-22 00:00,2.430,Approved,25.22,Approved
+2019-08-23 00:00,2.428,Approved,24.99,Approved
+2019-08-24 00:00,2.430,Approved,25.19,Approved
+2019-08-25 00:00,2.420,Approved,23.97,Approved
+2019-08-26 00:00,2.406,Approved,22.43,Approved
+2019-08-27 00:00,2.397,Approved,21.43,Approved
+2019-08-28 00:00,2.387,Approved,20.32,Approved
+2019-08-29 00:00,2.379,Approved,19.42,Approved
+2019-08-30 00:00,2.371,Approved,18.54,Approved
+2019-08-31 00:00,2.373,Approved,18.65,Approved
+2019-09-01 00:00,2.369,Approved,18.20,Approved
+2019-09-02 00:00,2.356,Approved,16.88,Approved
+2019-09-03 00:00,2.342,Approved,15.42,Approved
+2019-09-04 00:00,2.330,Approved,14.14,Approved
+2019-09-05 00:00,2.314,Approved,12.58,Approved
+2019-09-06 00:00,2.306,Approved,11.73,Approved
+2019-09-07 00:00,2.312,Approved,12.30,Approved
+2019-09-08 00:00,2.405,Approved,21.59,Approved
+2019-09-09 00:00,2.394,Approved,20.43,Approved
+2019-09-10 00:00,2.611,Approved,45.50,Approved
+2019-09-11 00:00,2.607,Approved,44.87,Approved
+2019-09-12 00:00,2.546,Approved,37.30,Approved
+2019-09-13 00:00,2.515,Approved,33.66,Approved
+2019-09-14 00:00,2.472,Approved,28.69,Approved
+2019-09-15 00:00,2.437,Approved,24.66,Approved
+2019-09-16 00:00,2.412,Approved,21.94,Approved
+2019-09-17 00:00,2.391,Approved,19.65,Approved
+2019-09-18 00:00,2.383,Approved,18.75,Approved
+2019-09-19 00:00,2.384,Approved,18.87,Approved
+2019-09-20 00:00,2.389,Approved,19.29,Approved
+2019-09-21 00:00,2.380,Approved,18.27,Approved
+2019-09-22 00:00,2.369,Approved,17.15,Approved
+2019-09-23 00:00,2.359,Approved,16.11,Approved
+2019-09-24 00:00,2.349,Approved,15.08,Approved
+2019-09-25 00:00,2.335,Approved,13.65,Approved
+2019-09-26 00:00,2.322,Approved,12.34,Approved
+2019-09-27 00:00,2.331,Approved,13.20,Approved
+2019-09-28 00:00,2.402,Approved,20.27,Approved
+2019-09-29 00:00,2.429,Approved,23.08,Approved
+2019-09-30 00:00,2.424,Approved,22.51,Approved
+2019-10-01 00:00,2.418,Approved,21.79,Approved
+2019-10-02 00:00,2.404,Provisional,20.23,Approved
+2019-10-03 00:00,2.403,Provisional,30.36,In Review
+2019-10-04 00:00,2.395,Provisional,32.06,In Review
+2019-10-05 00:00,2.392,Provisional,31.70,In Review
+2019-10-06 00:00,2.399,Provisional,32.54,In Review
+2019-10-07 00:00,2.400,Provisional,32.61,In Review
+2019-10-08 00:00,2.390,Provisional,31.52,In Review
+2019-10-09 00:00,2.396,Provisional,32.18,In Review
+2019-10-10 00:00,2.428,Provisional,35.90,In Review
+2019-10-11 00:00,2.414,Provisional,34.21,In Review
+2019-10-12 00:00,2.399,Provisional,32.63,In Review
+2019-10-13 00:00,2.407,Provisional,33.45,In Review
+2019-10-14 00:00,2.400,Provisional,32.76,In Review
+2019-10-15 00:00,2.392,Provisional,31.82,In Review
+2019-10-16 00:00,2.386,Provisional,31.11,In Review
+2019-10-17 00:00,2.379,Provisional,30.42,In Review
+2019-10-18 00:00,2.370,Provisional,29.42,In Review
+2019-10-19 00:00,2.360,Provisional,28.35,In Review
+2019-10-20 00:00,2.357,Provisional,27.98,In Review
+2019-10-21 00:00,2.372,Provisional,29.65,In Review
+2019-10-22 00:00,2.386,Provisional,31.21,In Review
+2019-10-23 00:00,2.416,Provisional,34.63,In Review
+2019-10-24 00:00,2.466,Provisional,40.40,In Review
+2019-10-25 00:00,2.442,Provisional,37.62,In Review
+2019-10-26 00:00,2.430,Provisional,36.22,In Review
+2019-10-27 00:00,2.524,Provisional,47.37,In Review
+2019-10-28 00:00,2.528,Provisional,47.77,In Review
+2019-10-29 00:00,2.534,Provisional,48.54,In Review
+2019-10-30 00:00,2.457,Provisional,40.32,In Review
+2019-10-31 00:00,2.473,Provisional,40.49,In Review
+2019-11-01 00:00,2.497,Provisional,42.74,In Review
+2019-11-02 00:00,2.489,Provisional,43.13,In Review
+2019-11-03 00:00,2.470,Provisional,40.90,In Review
+2019-11-04 00:00,2.472,Provisional,41.12,In Review
+2019-11-05 00:00,2.474,Provisional,41.35,In Review
+2019-11-06 00:00,2.474,Provisional,41.43,In Review
+2019-11-07 00:00,2.464,Provisional,40.23,In Review
+2019-11-08 00:00,2.445,Provisional,38.08,In Review
+2019-11-09 00:00,2.448,Provisional,38.44,In Review
+2019-11-10 00:00,2.451,Provisional,38.72,In Review
+2019-11-11 00:00,2.508,Provisional,45.52,In Review
+2019-11-12 00:00,2.518,Provisional,46.66,In Review
+2019-11-13 00:00,2.516,Provisional,46.41,In Review
+2019-11-14 00:00,2.515,Provisional,46.29,In Review
+2019-11-15 00:00,2.498,Provisional,44.38,In Review
+2019-11-16 00:00,2.490,Provisional,43.38,In Review
+2019-11-17 00:00,2.491,Provisional,43.52,In Review
+2019-11-18 00:00,2.504,Provisional,45.02,In Review
+2019-11-19 00:00,2.597,Provisional,56.41,In Review
+2019-11-20 00:00,2.626,Provisional,60.13,In Review
+2019-11-21 00:00,2.651,Provisional,63.30,In Review
+2019-11-22 00:00,2.619,Provisional,59.22,In Review
+2019-11-23 00:00,2.606,Provisional,57.62,In Review
+2019-11-24 00:00,2.598,Provisional,56.54,In Review
+2019-11-25 00:00,2.596,Provisional,56.36,In Review
+2019-11-26 00:00,2.581,Provisional,54.45,In Review
+2019-11-27 00:00,2.558,Provisional,51.65,In Review
+2019-11-28 00:00,2.546,Provisional,50.18,In Review
+2019-11-29 00:00,2.542,Provisional,49.71,In Review
+2019-11-30 00:00,2.631,Provisional,48.64,In Review
+2019-12-01 00:00,2.841,Provisional,47.21,In Review
+2019-12-02 00:00,3.017,Provisional,46.49,In Review
+2019-12-03 00:00,3.007,Provisional,45.71,In Review
+2019-12-04 00:00,2.569,Provisional,45.18,In Review
+2019-12-05 00:00,2.489,Provisional,43.43,In Review
+2019-12-06 00:00,2.481,Provisional,42.47,In Review
+2019-12-07 00:00,2.463,Provisional,40.34,In Review
+2019-12-08 00:00,2.450,Provisional,38.90,In Review
+2019-12-09 00:00,2.474,Provisional,41.62,In Review
+2019-12-10 00:00,2.452,Provisional,39.08,In Review
+2019-12-11 00:00,2.435,Provisional,37.16,In Review
+2019-12-12 00:00,2.425,Provisional,36.10,In Review
+2019-12-13 00:00,2.423,Provisional,35.79,In Review
+2019-12-14 00:00,2.425,Provisional,36.01,In Review
+2019-12-15 00:00,2.426,Provisional,36.15,In Review
+2019-12-16 00:00,2.420,Provisional,35.47,In Review
+2019-12-17 00:00,2.404,Provisional,33.72,In Review
+2019-12-18 00:00,2.391,Provisional,32.30,In Review
+2019-12-19 00:00,2.420,Provisional,33.05,In Review
+2019-12-20 00:00,2.553,Provisional,33.09,In Review
+2019-12-21 00:00,2.393,Provisional,32.53,In Review
+2019-12-22 00:00,2.390,Provisional,32.21,In Review
+2019-12-23 00:00,2.394,Provisional,32.71,In Review
+2019-12-24 00:00,2.389,Provisional,32.06,In Review
+2019-12-25 00:00,2.386,Provisional,31.78,In Review
+2019-12-26 00:00,2.372,Provisional,30.26,In Review
+2019-12-27 00:00,2.354,Provisional,28.33,In Review
+2019-12-28 00:00,2.324,Provisional,26.83,In Review
+2019-12-29 00:00,2.345,Provisional,27.38,In Review
+2019-12-30 00:00,2.343,Provisional,27.17,In Review
+2019-12-31 00:00,2.336,Provisional,26.41,In Review
+2020-01-01 00:00,2.345,Provisional,27.36,In Review
+2020-01-02 00:00,2.419,Provisional,32.09,In Review
+2020-01-03 00:00,2.405,Provisional,32.31,In Review
+2020-01-04 00:00,2.382,Provisional,31.49,In Review
+2020-01-05 00:00,2.376,Provisional,30.78,In Review
+2020-01-06 00:00,2.363,Provisional,29.34,In Review
+2020-01-07 00:00,2.355,Provisional,28.50,In Review
+2020-01-08 00:00,2.363,Provisional,29.39,In Review
+2020-01-09 00:00,2.374,Provisional,30.58,In Review
+2020-01-10 00:00,2.370,Provisional,30.18,In Review
+2020-01-11 00:00,,,29.63,In Review
+2020-01-12 00:00,,,28.45,In Review
+2020-01-13 00:00,2.360,Provisional,29.04,In Review
+2020-01-14 00:00,2.355,Provisional,28.59,In Review
+2020-01-15 00:00,2.350,Provisional,28.01,In Review
+2020-01-16 00:00,2.381,Provisional,28.02,In Review
+2020-01-17 00:00,2.421,Provisional,27.53,In Review
+2020-01-18 00:00,2.351,Provisional,28.19,In Review
+2020-01-19 00:00,2.332,Provisional,26.16,In Review
+2020-01-20 00:00,2.331,Provisional,25.99,In Review
+2020-01-21 00:00,2.330,Provisional,25.95,In Review
+2020-01-22 00:00,2.332,Provisional,26.13,In Review
+2020-01-23 00:00,2.337,Provisional,26.71,In Review
+2020-01-24 00:00,2.330,Provisional,25.97,In Review
+2020-01-25 00:00,2.337,Provisional,26.73,In Review
+2020-01-26 00:00,2.345,Provisional,27.61,In Review
+2020-01-27 00:00,2.345,Provisional,27.62,In Review
+2020-01-28 00:00,2.352,Provisional,28.42,In Review
+2020-01-29 00:00,2.347,Provisional,27.88,In Review
+2020-01-30 00:00,2.343,Provisional,27.42,In Review
+2020-01-31 00:00,2.340,Provisional,27.15,In Review
+2020-02-01 00:00,2.337,Provisional,26.81,In Review
+2020-02-02 00:00,2.373,Provisional,30.71,In Review
+2020-02-03 00:00,2.434,Provisional,37.49,In Review
+2020-02-04 00:00,2.381,Provisional,34.15,In Review
+2020-02-05 00:00,2.373,Provisional,31.86,In Review
+2020-02-06 00:00,2.410,Provisional,34.89,In Review
+2020-02-07 00:00,2.410,Provisional,34.91,In Review
+2020-02-08 00:00,2.411,Provisional,35.00,In Review
+2020-02-09 00:00,2.414,Provisional,35.31,In Review
+2020-02-10 00:00,2.395,Provisional,33.19,In Review
+2020-02-11 00:00,2.397,Provisional,33.44,In Review
+2020-02-12 00:00,2.387,Provisional,32.34,In Review
+2020-02-13 00:00,2.383,Provisional,31.95,In Review
+2020-02-14 00:00,2.371,Provisional,30.61,In Review
+2020-02-15 00:00,2.370,Provisional,30.51,In Review
+2020-02-16 00:00,2.362,Provisional,29.70,In Review
+2020-02-17 00:00,2.369,Provisional,30.43,In Review
+2020-02-18 00:00,2.369,Provisional,30.47,In Review
+2020-02-19 00:00,2.355,Provisional,28.92,In Review
+2020-02-20 00:00,2.304,Provisional,25.45,In Review
+2020-02-21 00:00,2.342,Provisional,24.79,In Review
+2020-02-22 00:00,2.386,Provisional,24.61,In Review
+2020-02-23 00:00,2.365,Provisional,25.15,In Review
+2020-02-24 00:00,2.357,Provisional,29.18,In Review
+2020-02-25 00:00,2.354,Provisional,28.85,In Review
+2020-02-26 00:00,2.349,Provisional,28.34,In Review
+2020-02-27 00:00,2.340,Provisional,27.44,In Review
+2020-02-28 00:00,2.340,Provisional,27.42,In Review
+2020-02-29 00:00,2.338,Provisional,27.21,In Review
+2020-03-01 00:00,2.346,Provisional,28.11,In Review
+2020-03-02 00:00,2.345,Provisional,27.97,In Review
+2020-03-03 00:00,2.340,Provisional,27.37,In Review
+2020-03-04 00:00,2.348,Provisional,28.16,In Review
+2020-03-05 00:00,2.360,Provisional,29.31,In Review
+2020-03-06 00:00,2.357,Provisional,28.95,In Review
+2020-03-07 00:00,2.366,Provisional,29.85,In Review
+2020-03-08 00:00,2.407,Provisional,34.31,In Review
+2020-03-09 00:00,2.438,Provisional,37.72,In Review
+2020-03-10 00:00,2.444,Provisional,38.30,In Review
+2020-03-11 00:00,2.440,Provisional,37.76,In Review
+2020-03-12 00:00,2.442,Provisional,37.85,In Review
+2020-03-13 00:00,2.441,Provisional,37.70,In Review
+2020-03-14 00:00,2.426,Provisional,35.89,In Review
+2020-03-15 00:00,2.413,Provisional,34.44,In Review
+2020-03-16 00:00,2.447,Provisional,38.26,In Review
+2020-03-17 00:00,2.416,Provisional,34.60,In Review
+2020-03-18 00:00,2.409,Provisional,33.70,In Review
+2020-03-19 00:00,2.414,Provisional,34.20,In Review
+2020-03-20 00:00,2.410,Provisional,33.68,In Review
+2020-03-21 00:00,2.407,Provisional,33.30,In Review
+2020-03-22 00:00,2.424,Provisional,35.08,In Review
+2020-03-23 00:00,2.443,Provisional,37.18,In Review
+2020-03-24 00:00,2.462,Provisional,39.32,In Review
+2020-03-25 00:00,2.479,Provisional,41.21,In Review
+2020-03-26 00:00,2.470,Provisional,40.08,In Review
+2020-03-27 00:00,2.464,Provisional,39.22,In Review
+2020-03-28 00:00,2.455,Provisional,38.11,In Review
+2020-03-29 00:00,2.453,Provisional,37.82,In Review
+2020-03-30 00:00,2.447,Provisional,37.07,In Review
+2020-03-31 00:00,2.453,Provisional,37.70,In Review
+2020-04-01 00:00,2.470,Provisional,39.54,In Review
+2020-04-02 00:00,2.465,Provisional,38.89,In Review
+2020-04-03 00:00,2.453,Provisional,37.47,In Review
+2020-04-04 00:00,2.451,Provisional,37.21,In Review
+2020-04-05 00:00,2.447,Provisional,36.68,In Review
+2020-04-06 00:00,2.440,Provisional,35.81,In Review
+2020-04-07 00:00,2.451,Provisional,36.95,In Review
+2020-04-08 00:00,2.490,Provisional,41.32,In Review
+2020-04-09 00:00,2.587,Provisional,53.03,In Review
+2020-04-10 00:00,2.690,Provisional,65.67,In Review
+2020-04-11 00:00,2.828,Provisional,81.43,In Review
+2020-04-12 00:00,3.162,Provisional,146.5,In Review
+2020-04-13 00:00,3.184,Provisional,150.4,In Review
+2020-04-14 00:00,3.080,Provisional,124.9,In Review
+2020-04-15 00:00,2.996,Provisional,105.9,In Review
+2020-04-16 00:00,2.974,Provisional,101.1,In Review
+2020-04-17 00:00,2.894,Provisional,88.60,In Review
+2020-04-18 00:00,2.847,Provisional,83.09,In Review
+2020-04-19 00:00,2.835,Provisional,81.65,In Review
+2020-04-20 00:00,2.840,Provisional,82.21,In Review
+2020-04-21 00:00,2.892,Provisional,88.17,In Review
+2020-04-22 00:00,3.010,Provisional,108.5,In Review
+2020-04-23 00:00,3.286,Provisional,176.7,In Review
+2020-04-24 00:00,3.540,Provisional,255.8,In Review
+2020-04-25 00:00,3.728,Provisional,322.3,In Review
+2020-04-26 00:00,3.676,Provisional,302.5,In Review
+2020-04-27 00:00,3.721,Provisional,319.4,In Review
+2020-04-28 00:00,3.814,Provisional,355.1,In Review
+2020-04-29 00:00,3.801,Provisional,349.9,In Review
+2020-04-30 00:00,3.893,Provisional,387.4,In Review
+2020-05-01 00:00,4.308,Provisional,581.7,In Review
+2020-05-02 00:00,4.504,Provisional,684.9,In Review
+2020-05-03 00:00,4.243,Provisional,546.9,In Review
+2020-05-04 00:00,4.274,Provisional,561.9,In Review
+2020-05-05 00:00,4.161,Provisional,507.0,In Review
+2020-05-06 00:00,4.015,Provisional,439.4,In Review
+2020-05-07 00:00,4.034,Provisional,447.8,In Review
+2020-05-08 00:00,3.966,Provisional,417.9,In Review
+2020-05-09 00:00,3.851,Provisional,369.1,In Review
+2020-05-10 00:00,3.822,Provisional,357.3,In Review
+2020-05-11 00:00,3.930,Provisional,404.0,In Review
+2020-05-12 00:00,,,431.6,In Review
+2020-05-13 00:00,,,407.5,In Review
+2020-05-14 00:00,3.879,Provisional,380.9,In Review
+2020-05-15 00:00,3.920,Provisional,397.2,In Review
+2020-05-16 00:00,3.957,Provisional,412.9,In Review
+2020-05-17 00:00,3.908,Provisional,392.0,In Review
+2020-05-18 00:00,3.947,Provisional,408.4,In Review
+2020-05-19 00:00,4.194,Provisional,522.6,In Review
+2020-05-20 00:00,4.408,Provisional,631.0,In Review
+2020-05-21 00:00,5.093,Provisional,1044.6,In Review
+2020-05-22 00:00,5.152,Provisional,1081.5,In Review
+2020-05-23 00:00,4.625,Provisional,752.5,In Review
+2020-05-24 00:00,4.282,Provisional,565.3,In Review
+2020-05-25 00:00,4.082,Provisional,468.3,In Review
+2020-05-26 00:00,4.052,Provisional,454.4,In Review
+2020-05-27 00:00,4.331,Provisional,590.8,In Review
+2020-05-28 00:00,4.559,Provisional,713.7,In Review
+2020-05-29 00:00,4.645,Provisional,763.0,In Review
+2020-05-30 00:00,4.715,Provisional,803.9,In Review
+2020-05-31 00:00,4.905,Provisional,919.0,In Review
+2020-06-01 00:00,5.172,Provisional,1093.0,In Review
+2020-06-02 00:00,4.938,Provisional,942.3,In Review
+2020-06-03 00:00,4.548,Provisional,707.7,In Review
+2020-06-04 00:00,4.532,Provisional,698.8,In Review
+2020-06-05 00:00,4.490,Provisional,675.9,In Review
+2020-06-06 00:00,4.336,Provisional,592.4,In Review
+2020-06-07 00:00,4.345,Provisional,596.7,In Review
+2020-06-08 00:00,4.282,Provisional,564.6,In Review
+2020-06-09 00:00,4.177,Provisional,511.8,In Review
+2020-06-10 00:00,4.019,Provisional,438.4,In Review
+2020-06-11 00:00,3.958,Provisional,411.1,In Review
+2020-06-12 00:00,4.039,Provisional,446.8,In Review
+2020-06-13 00:00,4.122,Provisional,485.1,In Review
+2020-06-14 00:00,4.248,Provisional,546.8,In Review
+2020-06-15 00:00,4.196,Provisional,520.9,In Review
+2020-06-16 00:00,3.979,Provisional,420.1,In Review
+2020-06-17 00:00,3.860,Provisional,368.9,In Review
+2020-06-18 00:00,3.802,Provisional,344.8,In Review
+2020-06-19 00:00,3.776,Provisional,334.4,In Review
+2020-06-20 00:00,3.787,Provisional,338.7,In Review
+2020-06-21 00:00,3.815,Provisional,349.9,In Review
+2020-06-22 00:00,3.894,Provisional,382.4,In Review
+2020-06-23 00:00,3.897,Provisional,383.8,In Review
+2020-06-24 00:00,3.848,Provisional,363.2,In Review
+2020-06-25 00:00,3.811,Provisional,348.0,In Review
+2020-06-26 00:00,3.733,Provisional,317.2,In Review
+2020-06-27 00:00,3.659,Provisional,289.1,In Review
+2020-06-28 00:00,3.597,Provisional,266.6,In Review
+2020-06-29 00:00,3.542,Provisional,247.6,In Review
+2020-06-30 00:00,3.678,Provisional,296.4,In Review
+2020-07-01 00:00,4.004,Provisional,430.5,In Review
+2020-07-02 00:00,4.052,Provisional,451.9,In Review
+2020-07-03 00:00,3.834,Provisional,356.4,In Review
+2020-07-04 00:00,3.680,Provisional,296.1,In Review
+2020-07-05 00:00,3.574,Provisional,257.8,In Review
+2020-07-06 00:00,3.485,Provisional,227.5,In Review
+2020-07-07 00:00,3.411,Provisional,203.9,In Review
+2020-07-08 00:00,3.349,Provisional,184.9,In Review
+2020-07-09 00:00,3.294,Provisional,169.0,In Review
+2020-07-10 00:00,3.239,Provisional,154.1,In Review
+2020-07-11 00:00,3.234,Provisional,152.8,In Review
+2020-07-12 00:00,3.178,Provisional,139.4,In Review
+2020-07-13 00:00,3.126,Provisional,127.5,In Review
+2020-07-14 00:00,3.083,Provisional,118.5,In Review
+2020-07-15 00:00,3.045,Provisional,110.7,In Review
+2020-07-16 00:00,3.013,Provisional,104.5,In Review
+2020-07-17 00:00,2.982,Provisional,98.71,In Review
+2020-07-18 00:00,2.961,Provisional,95.03,In Review
+2020-07-19 00:00,2.938,Provisional,92.27,In Review
+2020-07-20 00:00,2.904,Provisional,88.31,In Review
+2020-07-21 00:00,2.872,Provisional,84.08,In Review
+2020-07-22 00:00,2.841,Provisional,79.96,In Review
+2020-07-23 00:00,2.820,Provisional,77.11,In Review
+2020-07-24 00:00,2.806,Provisional,75.18,In Review
+2020-07-25 00:00,2.784,Provisional,71.92,In Review
+2020-07-26 00:00,2.743,Provisional,65.86,In Review
+2020-07-27 00:00,2.726,Provisional,63.08,In Review
+2020-07-28 00:00,2.707,Provisional,59.63,In Review
+2020-07-29 00:00,2.688,Provisional,56.60,In Review
+2020-07-30 00:00,2.670,Provisional,54.64,In Review
+2020-07-31 00:00,2.652,Provisional,53.04,In Review
+2020-08-01 00:00,2.624,Provisional,50.12,In Review
+2020-08-02 00:00,2.605,Provisional,48.46,In Review
+2020-08-03 00:00,2.594,Provisional,47.65,In Review
+2020-08-04 00:00,2.576,Provisional,46.09,In Review
+2020-08-05 00:00,2.561,Provisional,44.90,In Review
+2020-08-06 00:00,2.548,Provisional,43.91,In Review
+2020-08-07 00:00,2.538,Provisional,43.35,In Review
+2020-08-08 00:00,2.532,Provisional,43.26,In Review
+2020-08-09 00:00,2.523,Provisional,42.92,In Review
+2020-08-10 00:00,2.511,Provisional,42.06,In Review
+2020-08-11 00:00,2.500,Provisional,41.41,In Review
+2020-08-12 00:00,2.484,Provisional,40.08,In Review
+2020-08-13 00:00,2.471,Provisional,39.04,In Review
+2020-08-14 00:00,2.469,Provisional,39.10,In Review
+2020-08-15 00:00,2.457,Provisional,37.83,In Review
+2020-08-16 00:00,2.444,Provisional,36.39,In Review
+2020-08-17 00:00,2.429,Provisional,34.79,In Review
+2020-08-18 00:00,2.416,Provisional,33.43,In Review
+2020-08-19 00:00,2.405,Provisional,32.38,In Review
+2020-08-20 00:00,2.415,Provisional,33.65,In Review
+2020-08-21 00:00,2.420,Provisional,34.38,In Review
+2020-08-22 00:00,2.401,Provisional,32.29,In Review
+2020-08-23 00:00,2.379,Provisional,30.00,In Review
+2020-08-24 00:00,2.356,Provisional,27.62,In Review
+2020-08-25 00:00,2.351,Provisional,27.34,In Review
+2020-08-26 00:00,2.351,Provisional,27.46,In Review
+2020-08-27 00:00,2.349,Provisional,27.37,In Review
+2020-08-28 00:00,2.339,Provisional,26.49,In Review
+2020-08-29 00:00,2.323,Provisional,25.00,In Review
+2020-08-30 00:00,2.315,Provisional,24.34,In Review
+2020-08-31 00:00,2.305,Provisional,23.44,In Review
+2020-09-01 00:00,2.318,Provisional,25.01,In Review
+2020-09-02 00:00,2.331,Provisional,26.50,In Review
+2020-09-03 00:00,2.307,Provisional,24.15,In Review
+2020-09-04 00:00,2.293,Provisional,22.87,In Review
+2020-09-05 00:00,2.283,Provisional,22.11,In Review
+2020-09-06 00:00,2.272,Provisional,21.18,In Review
+2020-09-07 00:00,2.267,Provisional,20.87,In Review
+2020-09-08 00:00,2.283,Provisional,22.66,In Review
+2020-09-09 00:00,2.309,Provisional,25.43,In Review
+2020-09-10 00:00,2.301,Provisional,24.78,In Review
+2020-09-11 00:00,2.297,Provisional,24.60,In Review
+2020-09-12 00:00,2.289,Provisional,23.96,In Review
+2020-09-13 00:00,2.280,Provisional,23.21,In Review
+2020-09-14 00:00,2.270,Provisional,22.35,In Review
+2020-09-15 00:00,2.266,Provisional,22.22,In Review
+2020-09-16 00:00,2.264,Provisional,22.15,In Review
+2020-09-17 00:00,2.256,Provisional,21.52,In Review
+2020-09-18 00:00,2.246,Provisional,20.27,In Review
+2020-09-19 00:00,2.240,Provisional,19.46,In Review
+2020-09-20 00:00,2.256,Provisional,20.84,In Review
+2020-09-21 00:00,2.290,Provisional,24.10,In Review
+2020-09-22 00:00,2.280,Provisional,22.87,In Review
+2020-09-23 00:00,2.266,Provisional,21.25,In Review
+2020-09-24 00:00,2.260,Provisional,20.44,In Review
+2020-09-25 00:00,2.259,Provisional,20.14,In Review
+2020-09-26 00:00,2.267,Provisional,20.73,In Review
+2020-09-27 00:00,2.343,Provisional,28.35,In Review
+2020-09-28 00:00,2.328,Provisional,26.47,In Review
+2020-09-29 00:00,2.299,Provisional,23.28,In Review
+2020-09-30 00:00,2.288,Provisional,21.98,In Review
+2020-10-01 00:00,2.274,Provisional,20.30,In Review
+2020-10-02 00:00,2.262,Provisional,18.98,In Review
+2020-10-03 00:00,2.259,Provisional,18.40,In Review
+2020-10-04 00:00,2.250,Provisional,17.33,In Review
+2020-10-05 00:00,2.246,Provisional,16.69,In Review
+2020-10-06 00:00,2.235,Provisional,15.36,In Review
+2020-10-07 00:00,2.231,Provisional,14.76,In Review
+2020-10-08 00:00,2.229,Provisional,14.42,In Review
+2020-10-09 00:00,2.220,Provisional,13.33,In Review
+2020-10-10 00:00,2.215,Provisional,12.66,In Review
+2020-10-11 00:00,2.219,Provisional,12.83,In Review
+2020-10-12 00:00,2.237,Provisional,14.38,In Review
+2020-10-13 00:00,2.303,Provisional,20.94,In Review
+2020-10-14 00:00,2.387,Provisional,29.75,In Review
+2020-10-15 00:00,2.539,Provisional,47.69,In Review
+2020-10-16 00:00,2.442,Provisional,35.75,In Review
+2020-10-17 00:00,2.396,Provisional,30.30,In Review
+2020-10-18 00:00,2.736,Provisional,75.02,In Review
+2020-10-19 00:00,2.829,Provisional,83.15,In Review
+2020-10-20 00:00,2.924,Provisional,99.13,In Review
+2020-10-21 00:00,3.019,Provisional,115.4,In Review
+2020-10-22 00:00,2.925,Provisional,95.81,In Review
+2020-10-23 00:00,2.840,Provisional,84.24,In Review
+2020-10-24 00:00,2.786,Provisional,77.55,In Review
+2020-10-25 00:00,2.756,Provisional,73.73,In Review
+2020-10-26 00:00,2.694,Provisional,72.44,In Review
+2020-10-27 00:00,2.744,Provisional,66.02,In Review
+2020-10-28 00:00,2.658,Provisional,59.74,In Review
+2020-10-29 00:00,2.649,Provisional,59.56,In Review
+2020-10-30 00:00,2.661,Provisional,61.02,In Review
+2020-10-31 00:00,2.684,Provisional,64.03,In Review
+2020-11-01 00:00,2.695,Provisional,65.35,In Review
+2020-11-02 00:00,2.674,Provisional,62.32,In Review
+2020-11-03 00:00,2.660,Provisional,60.36,In Review
+2020-11-04 00:00,2.667,Provisional,61.02,In Review
+2020-11-05 00:00,2.706,Provisional,66.28,In Review
+2020-11-06 00:00,2.780,Provisional,75.79,In Review
+2020-11-07 00:00,2.874,Provisional,88.02,In Review
+2020-11-08 00:00,2.883,Provisional,89.26,In Review
+2020-11-09 00:00,2.859,Provisional,85.99,In Review
+2020-11-10 00:00,2.789,Provisional,76.68,In Review
+2020-11-11 00:00,2.783,Provisional,75.82,In Review
+2020-11-12 00:00,2.764,Provisional,73.10,In Review
+2020-11-13 00:00,2.733,Provisional,68.92,In Review
+2020-11-14 00:00,2.712,Provisional,65.94,In Review
+2020-11-15 00:00,2.701,Provisional,64.29,In Review
+2020-11-16 00:00,2.680,Provisional,61.08,In Review
+2020-11-17 00:00,2.669,Provisional,59.28,In Review
+2020-11-18 00:00,2.672,Provisional,59.62,In Review
+2020-11-19 00:00,2.734,Provisional,68.52,In Review
+2020-11-20 00:00,2.793,Provisional,76.67,In Review
+2020-11-21 00:00,2.758,Provisional,72.13,In Review
+2020-11-22 00:00,2.732,Provisional,68.67,In Review
+2020-11-23 00:00,2.694,Provisional,63.64,In Review
+2020-11-24 00:00,2.684,Provisional,62.43,In Review
+2020-11-25 00:00,2.678,Provisional,61.62,In Review
+2020-11-26 00:00,2.655,Provisional,58.66,In Review
+2020-11-27 00:00,2.640,Provisional,56.78,In Review
+2020-11-28 00:00,2.620,Provisional,54.25,In Review
+2020-11-29 00:00,2.603,Provisional,52.10,In Review
+2020-11-30 00:00,2.585,Provisional,49.70,In Review
+2020-12-01 00:00,2.557,Provisional,46.23,In Review
+2020-12-02 00:00,2.569,Provisional,47.89,In Review
+2020-12-03 00:00,2.531,Provisional,43.08,In Review
+2020-12-04 00:00,2.526,Provisional,42.55,In Review
+2020-12-05 00:00,2.522,Provisional,42.21,In Review
+2020-12-06 00:00,2.523,Provisional,42.08,In Review
+2020-12-07 00:00,2.498,Provisional,39.52,In Review
+2020-12-08 00:00,2.511,Provisional,39.31,In Review
+2020-12-09 00:00,2.503,Provisional,39.31,In Review
+2020-12-10 00:00,2.483,Provisional,37.91,In Review
+2020-12-11 00:00,2.485,Provisional,38.17,In Review
+2020-12-12 00:00,2.467,Provisional,36.12,In Review
+2020-12-13 00:00,2.464,Provisional,35.84,In Review
+2020-12-14 00:00,2.450,Provisional,34.28,In Review
+2020-12-15 00:00,2.455,Provisional,34.88,In Review
+2020-12-16 00:00,2.455,Provisional,35.04,In Review
+2020-12-17 00:00,2.458,Provisional,35.47,In Review
+2020-12-18 00:00,2.453,Provisional,34.96,In Review
+2020-12-19 00:00,2.443,Provisional,33.79,In Review
+2020-12-20 00:00,2.439,Provisional,33.42,In Review
+2020-12-21 00:00,2.447,Provisional,34.41,In Review
+2020-12-22 00:00,2.460,Provisional,36.07,In Review
+2020-12-23 00:00,2.473,Provisional,37.67,In Review
+2020-12-24 00:00,2.442,Provisional,34.21,In Review
+2020-12-25 00:00,2.411,Provisional,32.94,In Review
+2020-12-26 00:00,2.425,Provisional,32.99,In Review
+2020-12-27 00:00,2.460,Provisional,32.98,In Review
+2020-12-28 00:00,2.441,Provisional,32.32,In Review
+2020-12-29 00:00,2.412,Provisional,32.34,In Review
+2020-12-30 00:00,2.406,Provisional,31.99,In Review
+2020-12-31 00:00,2.441,Provisional,31.92,In Review
+2021-01-01 00:00,2.425,Provisional,32.25,In Review
+2021-01-02 00:00,2.420,Provisional,32.30,In Review
+2021-01-03 00:00,,,32.44,In Review
+2021-01-04 00:00,2.420,Provisional,32.37,In Review
+2021-01-05 00:00,2.412,Provisional,31.77,In Review
+2021-01-06 00:00,2.408,Provisional,31.17,In Review
+2021-01-07 00:00,2.400,Provisional,30.37,In Review
+2021-01-08 00:00,2.396,Provisional,29.94,In Review
+2021-01-09 00:00,2.390,Provisional,29.40,In Review
+2021-01-10 00:00,2.373,Provisional,27.60,In Review
+2021-01-11 00:00,2.375,Provisional,27.86,In Review
+2021-01-12 00:00,2.367,Provisional,27.01,In Review
+2021-01-13 00:00,2.385,Provisional,29.14,In Review
+2021-01-14 00:00,2.518,Provisional,44.73,In Review
+2021-01-15 00:00,2.547,Provisional,48.09,In Review
+2021-01-16 00:00,2.506,Provisional,42.71,In Review
+2021-01-17 00:00,2.515,Provisional,43.57,In Review
+2021-01-18 00:00,2.503,Provisional,41.94,In Review
+2021-01-19 00:00,2.487,Provisional,39.66,In Review
+2021-01-20 00:00,2.463,Provisional,36.59,In Review
+2021-01-21 00:00,2.467,Provisional,36.86,In Review
+2021-01-22 00:00,2.458,Provisional,35.55,In Review
+2021-01-23 00:00,2.447,Provisional,33.96,In Review
+2021-01-24 00:00,2.421,Provisional,33.91,In Review
+2021-01-25 00:00,2.409,Provisional,31.92,In Review
+2021-01-26 00:00,2.422,Provisional,31.06,In Review
+2021-01-27 00:00,2.413,Provisional,29.95,In Review
+2021-01-28 00:00,2.475,Provisional,29.92,In Review
+2021-01-29 00:00,2.462,Provisional,29.21,In Review
+2021-01-30 00:00,2.412,Provisional,28.36,In Review
+2021-01-31 00:00,2.403,Provisional,27.22,In Review
+2021-02-01 00:00,2.398,Provisional,26.48,In Review
+2021-02-02 00:00,2.390,Provisional,25.37,In Review
+2021-02-03 00:00,2.399,Provisional,26.07,In Review
+2021-02-04 00:00,,,26.03,In Review
+2021-02-05 00:00,2.389,Provisional,24.73,In Review
+2021-02-06 00:00,2.401,Provisional,25.67,In Review
+2021-02-07 00:00,2.399,Provisional,25.24,In Review
+2021-02-08 00:00,2.382,Provisional,25.43,In Review
+2021-02-09 00:00,2.435,Provisional,25.42,In Review
+2021-02-10 00:00,2.453,Provisional,26.00,In Review
+2021-02-11 00:00,2.444,Provisional,26.02,In Review
+2021-02-12 00:00,2.357,Provisional,26.02,In Review
+2021-02-13 00:00,2.526,Provisional,26.00,In Review
+2021-02-14 00:00,,,25.55,In Review
+2021-02-15 00:00,2.452,Provisional,25.59,In Review
+2021-02-16 00:00,2.605,Provisional,25.64,In Review
+2021-02-17 00:00,2.909,Provisional,25.60,In Review
+2021-02-18 00:00,3.018,Provisional,26.62,In Review
+2021-02-19 00:00,2.911,Provisional,26.52,In Review
+2021-02-20 00:00,2.818,Provisional,26.43,In Review
+2021-02-21 00:00,2.670,Provisional,26.55,In Review
+2021-02-22 00:00,2.473,Provisional,26.36,In Review
+2021-02-23 00:00,2.386,Provisional,26.18,In Review
+2021-02-24 00:00,2.403,Provisional,28.01,In Review
+2021-02-25 00:00,2.369,Provisional,24.24,In Review
+2021-02-26 00:00,2.354,Provisional,22.51,In Review
+2021-02-27 00:00,2.360,Provisional,23.09,In Review
+2021-02-28 00:00,2.357,Provisional,22.67,In Review
+2021-03-01 00:00,2.349,Provisional,21.82,In Review
+2021-03-02 00:00,2.345,Provisional,21.31,In Review
+2021-03-03 00:00,2.348,Provisional,21.58,In Review
+2021-03-04 00:00,2.353,Provisional,22.02,In Review
+2021-03-05 00:00,2.361,Provisional,22.81,In Review
+2021-03-06 00:00,2.378,Provisional,24.54,In Review
+2021-03-07 00:00,2.400,Provisional,26.89,In Review
+2021-03-08 00:00,2.411,Provisional,28.02,In Review
+2021-03-09 00:00,2.412,Provisional,28.15,In Review
+2021-03-10 00:00,2.413,Provisional,28.09,In Review
+2021-03-11 00:00,2.408,Provisional,27.45,In Review
+2021-03-12 00:00,2.404,Provisional,26.94,In Review
+2021-03-13 00:00,2.404,Provisional,26.88,In Review
+2021-03-14 00:00,2.414,Provisional,27.95,In Review
+2021-03-15 00:00,2.428,Provisional,29.51,In Review
+2021-03-16 00:00,2.460,Provisional,33.11,In Review
+2021-03-17 00:00,2.488,Provisional,36.27,In Review
+2021-03-18 00:00,2.517,Provisional,39.61,In Review
+2021-03-19 00:00,2.558,Provisional,44.61,In Review
+2021-03-20 00:00,2.629,Provisional,53.45,In Review
+2021-03-21 00:00,2.683,Provisional,60.95,In Review
+2021-03-22 00:00,2.686,Provisional,61.30,In Review
+2021-03-23 00:00,2.673,Provisional,59.18,In Review
+2021-03-24 00:00,2.653,Provisional,56.27,In Review
+2021-03-25 00:00,2.633,Provisional,53.50,In Review
+2021-03-26 00:00,2.626,Provisional,52.56,In Review
+2021-03-27 00:00,2.606,Provisional,49.89,In Review
+2021-03-28 00:00,2.594,Provisional,48.29,In Review
+2021-03-29 00:00,2.599,Provisional,48.86,In Review
+2021-03-30 00:00,2.663,Provisional,57.17,In Review
+2021-03-31 00:00,2.649,Provisional,55.22,In Review
+2021-04-01 00:00,2.632,Provisional,53.10,In Review
+2021-04-02 00:00,2.633,Provisional,53.26,In Review
+2021-04-03 00:00,2.689,Provisional,61.30,In Review
+2021-04-04 00:00,2.803,Provisional,77.60,In Review
+2021-04-05 00:00,2.996,Provisional,110.6,In Review
+2021-04-06 00:00,3.164,Provisional,150.3,In Review
+2021-04-07 00:00,3.173,Provisional,152.5,In Review
+2021-04-08 00:00,3.161,Provisional,149.4,In Review
+2021-04-09 00:00,3.208,Provisional,161.7,In Review
+2021-04-10 00:00,3.182,Provisional,154.7,In Review
+2021-04-11 00:00,3.142,Provisional,144.5,In Review
+2021-04-12 00:00,3.085,Provisional,130.7,In Review
+2021-04-13 00:00,3.028,Provisional,117.4,In Review
+2021-04-14 00:00,2.975,Provisional,105.7,In Review
+2021-04-15 00:00,2.933,Provisional,96.86,In Review
+2021-04-16 00:00,2.898,Provisional,91.09,In Review
+2021-04-17 00:00,2.867,Provisional,86.74,In Review
+2021-04-18 00:00,2.859,Provisional,85.69,In Review
+2021-04-19 00:00,2.916,Provisional,94.12,In Review
+2021-04-20 00:00,3.049,Provisional,122.2,In Review
+2021-04-21 00:00,3.080,Provisional,129.5,In Review
+2021-04-22 00:00,3.076,Provisional,128.5,In Review
+2021-04-23 00:00,3.086,Provisional,130.8,In Review
+2021-04-24 00:00,3.074,Provisional,128.0,In Review
+2021-04-25 00:00,3.056,Provisional,123.7,In Review
+2021-04-26 00:00,3.061,Provisional,124.9,In Review
+2021-04-27 00:00,3.066,Provisional,126.2,In Review
+2021-04-28 00:00,3.052,Provisional,122.9,In Review
+2021-04-29 00:00,3.065,Provisional,126.0,In Review
+2021-04-30 00:00,3.194,Provisional,158.3,In Review
+2021-05-01 00:00,3.637,Provisional,296.9,In Review
+2021-05-02 00:00,4.066,Provisional,467.7,In Review
+2021-05-03 00:00,4.126,Provisional,495.2,In Review
+2021-05-04 00:00,3.934,Provisional,410.6,In Review
+2021-05-05 00:00,3.823,Provisional,365.1,In Review
+2021-05-06 00:00,3.786,Provisional,350.6,In Review
+2021-05-07 00:00,3.874,Provisional,385.7,In Review
+2021-05-08 00:00,4.132,Provisional,497.7,In Review
+2021-05-09 00:00,4.068,Provisional,468.8,In Review
+2021-05-10 00:00,3.873,Provisional,385.3,In Review
+2021-05-11 00:00,3.714,Provisional,323.1,In Review
+2021-05-12 00:00,3.587,Provisional,277.4,In Review
+2021-05-13 00:00,3.527,Provisional,257.1,In Review
+2021-05-14 00:00,3.584,Provisional,276.3,In Review
+2021-05-15 00:00,3.783,Provisional,349.6,In Review
+2021-05-16 00:00,3.998,Provisional,437.8,In Review
+2021-05-17 00:00,4.131,Provisional,497.4,In Review
+2021-05-18 00:00,4.309,Provisional,583.5,In Review
+2021-05-19 00:00,4.454,Provisional,658.3,In Review
+2021-05-20 00:00,4.177,Provisional,519.3,In Review
+2021-05-21 00:00,3.992,Provisional,435.4,In Review
+2021-05-22 00:00,3.787,Provisional,351.0,In Review
+2021-05-23 00:00,3.637,Provisional,295.1,In Review
+2021-05-24 00:00,3.601,Provisional,282.2,In Review
+2021-05-25 00:00,3.770,Provisional,345.2,In Review
+2021-05-26 00:00,3.862,Provisional,380.8,In Review
+2021-05-27 00:00,2.266,Provisional,503.3,In Review
+2021-05-28 00:00,4.296,Provisional,576.6,In Review
+2021-05-29 00:00,4.329,Provisional,593.2,In Review
+2021-05-30 00:00,4.155,Provisional,508.7,In Review
+2021-05-31 00:00,4.053,Provisional,462.2,In Review
+2021-06-01 00:00,4.088,Provisional,477.8,In Review
+2021-06-02 00:00,4.213,Provisional,536.0,In Review
+2021-06-03 00:00,4.386,Provisional,622.5,In Review
+2021-06-04 00:00,4.531,Provisional,700.2,In Review
+2021-06-05 00:00,4.606,Provisional,741.5,In Review
+2021-06-06 00:00,4.467,Provisional,666.4,In Review
+2021-06-07 00:00,4.175,Provisional,518.6,In Review
+2021-06-08 00:00,3.935,Provisional,411.3,In Review
+2021-06-09 00:00,3.795,Provisional,354.2,In Review
+2021-06-10 00:00,3.735,Provisional,331.1,In Review
+2021-06-11 00:00,3.739,Provisional,332.4,In Review
+2021-06-12 00:00,3.695,Provisional,316.2,In Review
+2021-06-13 00:00,3.608,Provisional,284.8,In Review
+2021-06-14 00:00,3.558,Provisional,267.4,In Review
+2021-06-15 00:00,3.615,Provisional,287.2,In Review
+2021-06-16 00:00,3.670,Provisional,307.0,In Review
+2021-06-17 00:00,3.610,Provisional,285.7,In Review
+2021-06-18 00:00,3.496,Provisional,246.9,In Review
+2021-06-19 00:00,3.412,Provisional,220.2,In Review
+2021-06-20 00:00,3.353,Provisional,202.2,In Review
+2021-06-21 00:00,3.308,Provisional,189.0,In Review
+2021-06-22 00:00,3.255,Provisional,174.2,In Review
+2021-06-23 00:00,3.202,Provisional,159.9,In Review
+2021-06-24 00:00,3.164,Provisional,150.1,In Review
+2021-06-25 00:00,3.122,Provisional,139.5,In Review
+2021-06-26 00:00,3.080,Provisional,129.4,In Review
+2021-06-27 00:00,3.035,Provisional,119.0,In Review
+2021-06-28 00:00,2.994,Provisional,109.8,In Review
+2021-06-29 00:00,2.962,Provisional,103.0,In Review
+2021-06-30 00:00,2.927,Provisional,96.02,In Review
+2021-07-01 00:00,2.885,Provisional,89.73,In Review
+2021-07-02 00:00,2.845,Provisional,84.77,In Review
+2021-07-03 00:00,2.814,Provisional,80.94,In Review
+2021-07-04 00:00,2.777,Provisional,76.45,In Review
+2021-07-05 00:00,2.744,Provisional,72.34,In Review
+2021-07-06 00:00,2.717,Provisional,69.14,In Review
+2021-07-07 00:00,2.701,Provisional,67.16,In Review
+2021-07-08 00:00,2.684,Provisional,65.11,In Review
+2021-07-09 00:00,2.660,Provisional,62.02,In Review
+2021-07-10 00:00,2.639,Provisional,59.36,In Review
+2021-07-11 00:00,2.622,Provisional,57.14,In Review
+2021-07-12 00:00,2.600,Provisional,54.38,In Review
+2021-07-13 00:00,2.588,Provisional,52.92,In Review
+2021-07-14 00:00,2.572,Provisional,50.89,In Review
+2021-07-15 00:00,2.558,Provisional,49.14,In Review
+2021-07-16 00:00,2.540,Provisional,46.94,In Review
+2021-07-17 00:00,2.523,Provisional,44.83,In Review
+2021-07-18 00:00,2.508,Provisional,43.03,In Review
+2021-07-19 00:00,2.498,Provisional,41.95,In Review
+2021-07-20 00:00,2.489,Provisional,40.84,In Review
+2021-07-21 00:00,2.490,Provisional,41.06,In Review
+2021-07-22 00:00,2.473,Provisional,38.93,In Review
+2021-07-23 00:00,,,36.95,In Review
+2021-07-24 00:00,,,35.11,In Review
+2021-07-25 00:00,2.429,Provisional,34.01,In Review
+2021-07-26 00:00,2.411,Provisional,32.52,In Review
+2021-07-27 00:00,2.403,Provisional,31.06,In Review
+2021-07-28 00:00,2.398,Provisional,30.47,In Review
+2021-07-29 00:00,2.392,Provisional,29.84,In Review
+2021-07-30 00:00,2.390,Provisional,29.75,In Review
+2021-07-31 00:00,2.384,Provisional,29.24,In Review
+2021-08-01 00:00,2.370,Provisional,27.85,In Review
+2021-08-02 00:00,2.364,Provisional,27.39,In Review
+2021-08-03 00:00,2.408,Provisional,32.57,In Review
+2021-08-04 00:00,2.412,Provisional,33.16,In Review
+2021-08-05 00:00,2.390,Provisional,30.87,In Review
+2021-08-06 00:00,2.379,Provisional,29.84,In Review
+2021-08-07 00:00,2.368,Provisional,28.85,In Review
+2021-08-08 00:00,2.355,Provisional,27.70,In Review
+2021-08-09 00:00,2.369,Provisional,29.43,In Review
+2021-08-10 00:00,2.400,Provisional,33.06,In Review
+2021-08-11 00:00,2.364,Provisional,29.25,In Review
+2021-08-12 00:00,2.341,Provisional,26.97,In Review
+2021-08-13 00:00,2.326,Provisional,25.58,In Review
+2021-08-14 00:00,2.308,Provisional,23.97,In Review
+2021-08-15 00:00,2.297,Provisional,23.11,In Review
+2021-08-16 00:00,2.288,Provisional,22.43,In Review
+2021-08-17 00:00,2.285,Provisional,22.27,In Review
+2021-08-18 00:00,2.283,Provisional,22.36,In Review
+2021-08-19 00:00,2.320,Provisional,26.34,In Review
+2021-08-20 00:00,2.325,Provisional,27.09,In Review
+2021-08-21 00:00,2.315,Provisional,26.23,In Review
+2021-08-22 00:00,2.352,Provisional,30.31,In Review
+2021-08-23 00:00,2.360,Provisional,31.39,In Review
+2021-08-24 00:00,2.333,Provisional,28.79,In Review
+2021-08-25 00:00,2.311,Provisional,26.71,In Review
+2021-08-26 00:00,2.293,Provisional,25.19,In Review
+2021-08-27 00:00,2.289,Provisional,25.04,In Review
+2021-08-28 00:00,2.316,Provisional,27.93,In Review
+2021-08-29 00:00,2.338,Provisional,30.40,In Review
+2021-08-30 00:00,2.305,Provisional,27.25,In Review
+2021-08-31 00:00,2.284,Provisional,25.40,In Review
+2021-09-01 00:00,2.267,Provisional,24.04,In Review
+2021-09-02 00:00,2.261,Provisional,23.58,In Review
+2021-09-03 00:00,2.255,Provisional,23.07,In Review
+2021-09-04 00:00,2.249,Provisional,22.41,In Review
+2021-09-05 00:00,2.239,Provisional,21.36,In Review
+2021-09-06 00:00,2.232,Provisional,20.59,In Review
+2021-09-07 00:00,2.221,Provisional,19.47,In Review
+2021-09-08 00:00,2.216,Provisional,19.05,In Review
+2021-09-09 00:00,2.211,Provisional,18.49,In Review
+2021-09-10 00:00,2.209,Provisional,18.28,In Review
+2021-09-11 00:00,2.210,Provisional,18.47,In Review
+2021-09-12 00:00,2.226,Provisional,20.07,In Review
+2021-09-13 00:00,2.229,Provisional,20.32,In Review
+2021-09-14 00:00,2.223,Provisional,19.80,In Review
+2021-09-15 00:00,2.211,Provisional,18.63,In Review
+2021-09-16 00:00,2.203,Provisional,17.79,In Review
+2021-09-17 00:00,2.195,Provisional,17.10,In Review
+2021-09-18 00:00,2.195,Provisional,17.02,In Review
+2021-09-19 00:00,2.194,Provisional,17.01,In Review
+2021-09-20 00:00,2.212,Provisional,18.78,In Review
+2021-09-21 00:00,2.272,Provisional,24.66,In Review
+2021-09-22 00:00,2.291,Provisional,26.50,In Review
+2021-09-23 00:00,2.265,Provisional,23.97,In Review
+2021-09-24 00:00,2.246,Provisional,22.13,In Review
+2021-09-25 00:00,2.226,Provisional,20.18,In Review
+2021-09-26 00:00,2.210,Provisional,18.68,In Review
+2021-09-27 00:00,2.198,Provisional,17.49,In Review
+2021-09-28 00:00,2.190,Provisional,16.70,In Review
+2021-09-29 00:00,2.200,Provisional,17.67,In Review
+2021-09-30 00:00,2.208,Provisional,18.50,In Review
+2021-10-01 00:00,2.201,Provisional,17.82,In Review
+2021-10-02 00:00,2.199,Provisional,17.46,In Review
+2021-10-03 00:00,2.191,Provisional,16.29,In Review
+2021-10-04 00:00,2.184,Provisional,15.27,In Review
+2021-10-05 00:00,2.177,Provisional,14.28,In Review
+2021-10-06 00:00,2.165,Provisional,12.82,In Review
+2021-10-07 00:00,2.152,Provisional,11.34,In Review
+2021-10-08 00:00,2.163,Provisional,12.04,In Review
+2021-10-09 00:00,2.170,Provisional,12.42,In Review
+2021-10-10 00:00,2.170,Provisional,12.12,In Review
+2021-10-11 00:00,2.170,Provisional,11.84,In Review
+2021-10-12 00:00,2.173,Provisional,11.78,In Review
+2021-10-13 00:00,2.176,Provisional,11.77,In Review
+2021-10-14 00:00,2.183,Provisional,12.20,In Review
+2021-10-15 00:00,2.196,Provisional,13.14,In Review
+2021-10-16 00:00,2.200,Provisional,13.19,In Review
+2021-10-17 00:00,2.197,Provisional,12.62,In Review
+2021-10-18 00:00,2.196,Provisional,12.24,In Review
+2021-10-19 00:00,2.190,Provisional,11.42,In Review
+2021-10-20 00:00,2.188,Provisional,10.86,In Review
+2021-10-21 00:00,2.188,Provisional,10.60,In Review
+2021-10-22 00:00,2.190,Provisional,10.48,In Review
+2021-10-23 00:00,2.200,Provisional,11.11,In Review
+2021-10-24 00:00,2.297,Provisional,19.88,In Review
+2021-10-25 00:00,2.264,Provisional,16.38,In Review
+2021-10-26 00:00,2.305,Provisional,20.19,In Review
+2021-10-27 00:00,2.335,Provisional,22.87,In Review
+2021-10-28 00:00,2.312,Provisional,20.20,In Review
+2021-10-29 00:00,2.296,Provisional,18.30,In Review
+2021-10-30 00:00,2.306,Provisional,19.00,In Review
+2021-10-31 00:00,2.371,Provisional,25.40,In Review
+2021-11-01 00:00,2.356,Provisional,23.51,In Review
+2021-11-02 00:00,2.326,Provisional,20.10,In Review
+2021-11-03 00:00,2.313,Provisional,18.59,In Review
+2021-11-04 00:00,2.304,Provisional,17.32,In Review
+2021-11-05 00:00,2.291,Provisional,15.77,In Review
+2021-11-06 00:00,2.302,Provisional,16.61,In Review
+2021-11-07 00:00,2.311,Provisional,17.16,In Review
+2021-11-08 00:00,2.319,Provisional,17.71,In Review
+2021-11-09 00:00,2.295,Provisional,15.07,In Review
+2021-11-10 00:00,2.282,Provisional,13.52,In Review
+2021-11-11 00:00,2.293,Provisional,14.30,In Review
+2021-11-12 00:00,2.285,Provisional,13.24,In Review
+2021-11-13 00:00,2.318,Provisional,16.23,In Review
+2021-11-14 00:00,2.570,Provisional,44.81,In Review
+2021-11-15 00:00,2.669,Provisional,57.75,In Review
+2021-11-16 00:00,2.778,Provisional,73.70,In Review
+2021-11-17 00:00,2.754,Provisional,70.26,In Review
+2021-11-18 00:00,2.681,Provisional,59.09,In Review
+2021-11-19 00:00,2.631,Provisional,51.39,In Review
+2021-11-20 00:00,2.648,Provisional,53.82,In Review
+2021-11-21 00:00,2.616,Provisional,49.12,In Review
+2021-11-22 00:00,2.572,Provisional,43.26,In Review
+2021-11-23 00:00,2.546,Provisional,39.78,In Review
+2021-11-24 00:00,2.522,Provisional,36.80,In Review
+2021-11-25 00:00,2.508,Provisional,34.98,In Review
+2021-11-26 00:00,2.487,Provisional,32.37,In Review
+2021-11-27 00:00,2.473,Provisional,30.70,In Review
+2021-11-28 00:00,2.464,Provisional,29.47,In Review
+2021-11-29 00:00,2.468,Provisional,29.87,In Review
+2021-11-30 00:00,2.529,Provisional,36.77,In Review
+2021-12-01 00:00,2.566,Provisional,41.13,In Review
+2021-12-02 00:00,2.582,Provisional,43.16,In Review
+2021-12-03 00:00,2.715,Provisional,63.19,In Review
+2021-12-04 00:00,2.778,Provisional,72.79,In Review
+2021-12-05 00:00,2.768,Provisional,71.27,In Review
+2021-12-06 00:00,2.755,Provisional,69.25,In Review
+2021-12-07 00:00,2.713,Provisional,62.72,In Review
+2021-12-08 00:00,2.715,Provisional,63.06,In Review
+2021-12-09 00:00,2.698,Provisional,60.06,In Review
+2021-12-10 00:00,2.671,Provisional,55.50,In Review
+2021-12-11 00:00,2.648,Provisional,51.68,In Review
+2021-12-12 00:00,2.631,Provisional,48.80,In Review
+2021-12-13 00:00,2.628,Provisional,48.31,In Review
+2021-12-14 00:00,2.614,Provisional,46.18,In Review
+2021-12-15 00:00,2.605,Provisional,44.66,In Review
+2021-12-16 00:00,2.577,Provisional,40.54,In Review
+2021-12-17 00:00,2.535,Provisional,40.70,In Review
+2021-12-18 00:00,2.545,Provisional,40.60,In Review
+2021-12-19 00:00,2.577,Provisional,35.19,In Review
+2021-12-20 00:00,2.550,Provisional,34.29,In Review
+2021-12-21 00:00,2.526,Provisional,32.86,In Review
+2021-12-22 00:00,2.511,Provisional,31.42,In Review
+2021-12-23 00:00,2.510,Provisional,31.26,In Review
+2021-12-24 00:00,2.524,Provisional,32.72,In Review
+2021-12-25 00:00,2.505,Provisional,30.47,In Review
+2021-12-26 00:00,2.495,Provisional,29.14,In Review
+2021-12-27 00:00,2.479,Provisional,27.19,In Review
+2021-12-28 00:00,2.540,Provisional,27.03,In Review
+2021-12-29 00:00,2.626,Provisional,26.87,In Review
+2021-12-30 00:00,2.567,Provisional,26.68,In Review
+2021-12-31 00:00,2.604,Provisional,26.54,In Review
+2022-01-01 00:00,2.609,Provisional,26.44,In Review
+2022-01-02 00:00,2.657,Provisional,26.34,In Review
+2022-01-03 00:00,2.758,Provisional,23.16,In Review
+2022-01-04 00:00,2.713,Provisional,24.73,In Review
+2022-01-05 00:00,2.519,Provisional,26.05,In Review
+2022-01-06 00:00,2.475,Provisional,25.91,In Review
+2022-01-07 00:00,2.438,Provisional,25.88,In Review
+2022-01-08 00:00,2.447,Provisional,22.07,In Review
+2022-01-09 00:00,2.487,Provisional,22.88,In Review
+2022-01-10 00:00,2.443,Provisional,23.66,In Review
+2022-01-11 00:00,2.360,Provisional,24.53,In Review
+2022-01-12 00:00,2.425,Provisional,26.56,In Review
+2022-01-13 00:00,2.497,Provisional,26.80,In Review
+2022-01-14 00:00,2.462,Provisional,27.70,In Review
+2022-01-15 00:00,2.442,Provisional,26.82,In Review
+2022-01-16 00:00,2.431,Provisional,26.45,In Review
+2022-01-17 00:00,2.425,Provisional,26.47,In Review
+2022-01-18 00:00,2.420,Provisional,26.58,In Review
+2022-01-19 00:00,2.420,Provisional,27.25,In Review
+2022-01-20 00:00,2.415,Provisional,27.41,In Review
+2022-01-21 00:00,2.419,Provisional,28.41,In Review
+2022-01-22 00:00,2.432,Provisional,30.41,In Review
+2022-01-23 00:00,2.418,Provisional,29.65,In Review
+2022-01-24 00:00,2.403,Provisional,28.79,In Review
+2022-01-25 00:00,2.408,Provisional,29.91,In Review
+2022-01-26 00:00,2.401,Provisional,29.89,In Review
+2022-01-27 00:00,2.382,Provisional,31.11,In Review
+2022-01-28 00:00,2.455,Provisional,31.49,In Review
+2022-01-29 00:00,2.599,Provisional,31.33,In Review
+2022-01-30 00:00,2.777,Provisional,31.46,In Review
+2022-01-31 00:00,2.782,Provisional,31.47,In Review
+2022-02-01 00:00,2.615,Provisional,32.35,In Review
+2022-02-02 00:00,2.486,Provisional,31.75,In Review
+2022-02-03 00:00,2.551,Provisional,33.71,In Review
+2022-02-04 00:00,2.721,Provisional,33.51,In Review
+2022-02-05 00:00,2.734,Provisional,27.97,In Review
+2022-02-06 00:00,2.516,Provisional,27.96,In Review
+2022-02-07 00:00,2.372,Provisional,27.95,In Review
+2022-02-08 00:00,2.359,Provisional,26.38,In Review
+2022-02-09 00:00,2.352,Provisional,25.44,In Review
+2022-02-10 00:00,2.350,Provisional,24.75,In Review
+2022-02-11 00:00,2.365,Provisional,25.58,In Review
+2022-02-12 00:00,2.392,Provisional,27.38,In Review
+2022-02-13 00:00,2.378,Provisional,25.60,In Review
+2022-02-14 00:00,2.377,Provisional,25.10,In Review
+2022-02-15 00:00,2.390,Provisional,25.61,In Review
+2022-02-16 00:00,2.392,Provisional,25.30,In Review
+2022-02-17 00:00,2.403,Provisional,25.73,In Review
+2022-02-18 00:00,2.391,Provisional,24.24,In Review
+2022-02-19 00:00,2.391,Provisional,23.69,In Review
+2022-02-20 00:00,2.392,Provisional,23.26,In Review
+2022-02-21 00:00,2.399,Provisional,23.23,In Review
+2022-02-22 00:00,2.393,Provisional,31.08,In Review
+2022-02-23 00:00,2.525,Provisional,32.11,In Review
+2022-02-24 00:00,2.434,Provisional,32.64,In Review
+2022-02-25 00:00,2.394,Provisional,32.64,In Review
+2022-02-26 00:00,2.461,Provisional,32.64,In Review
+2022-02-27 00:00,2.539,Provisional,33.79,In Review
+2022-02-28 00:00,2.553,Provisional,44.82,In Review
+2022-03-01 00:00,2.569,Provisional,44.82,In Review
+2022-03-02 00:00,2.770,Provisional,69.64,In Review
+2022-03-03 00:00,2.897,Provisional,87.91,In Review
+2022-03-04 00:00,2.950,Provisional,100.3,In Review
+2022-03-05 00:00,2.934,Provisional,97.16,In Review
+2022-03-06 00:00,2.882,Provisional,83.83,In Review
+2022-03-07 00:00,2.825,Provisional,68.41,In Review
+2022-03-08 00:00,2.775,Provisional,53.76,In Review
+2022-03-09 00:00,2.749,Provisional,35.59,In Review
+2022-03-10 00:00,2.671,Provisional,34.35,In Review
+2022-03-11 00:00,2.661,Provisional,32.19,In Review
+2022-03-12 00:00,2.693,Provisional,36.49,In Review
+2022-03-13 00:00,2.654,Provisional,30.09,In Review
+2022-03-14 00:00,2.631,Provisional,28.90,In Review
+2022-03-15 00:00,2.600,Provisional,26.09,In Review
+2022-03-16 00:00,2.607,Provisional,28.53,In Review
+2022-03-17 00:00,2.626,Provisional,32.45,In Review
+2022-03-18 00:00,2.606,Provisional,31.79,In Review
+2022-03-19 00:00,2.603,Provisional,33.21,In Review
+2022-03-20 00:00,2.611,Provisional,35.83,In Review
+2022-03-21 00:00,2.626,Provisional,39.43,In Review
+2022-03-22 00:00,2.612,Provisional,39.54,In Review
+2022-03-23 00:00,2.603,Provisional,40.22,In Review
+2022-03-24 00:00,2.624,Provisional,44.56,In Review
+2022-03-25 00:00,2.787,Provisional,73.74,In Review
+2022-03-26 00:00,2.912,Provisional,102.7,In Review
+2022-03-27 00:00,2.961,Provisional,115.5,In Review
+2022-03-28 00:00,3.035,Provisional,133.1,In Review
+2022-03-29 00:00,3.183,Provisional,171.4,In Review
+2022-03-30 00:00,3.379,Provisional,228.2,In Review
+2022-03-31 00:00,3.362,Provisional,224.1,In Review
+2022-04-01 00:00,3.284,Provisional,202.1,In Review
+2022-04-02 00:00,3.205,Provisional,180.7,In Review
+2022-04-03 00:00,3.131,Provisional,162.1,In Review
+2022-04-04 00:00,3.064,Provisional,146.2,In Review
+2022-04-05 00:00,3.030,Provisional,138.8,In Review
+2022-04-06 00:00,2.987,Provisional,129.8,In Review
+2022-04-07 00:00,2.933,Provisional,118.4,In Review
+2022-04-08 00:00,2.893,Provisional,109.5,In Review
+2022-04-09 00:00,2.881,Provisional,107.0,In Review
+2022-04-10 00:00,2.940,Provisional,119.9,In Review
+2022-04-11 00:00,2.952,Provisional,122.6,In Review
+2022-04-12 00:00,2.936,Provisional,118.9,In Review
+2022-04-13 00:00,2.905,Provisional,112.1,In Review
+2022-04-14 00:00,2.861,Provisional,103.3,In Review
+2022-04-15 00:00,2.842,Provisional,99.63,In Review
+2022-04-16 00:00,2.830,Provisional,96.12,In Review
+2022-04-17 00:00,2.801,Provisional,91.75,In Review
+2022-04-18 00:00,2.785,Provisional,89.83,In Review
+2022-04-19 00:00,2.752,Provisional,85.88,In Review
+2022-04-20 00:00,2.734,Provisional,83.63,In Review
+2022-04-21 00:00,2.716,Provisional,81.54,In Review
+2022-04-22 00:00,2.704,Provisional,80.04,In Review
+2022-04-23 00:00,2.689,Provisional,78.32,In Review
+2022-04-24 00:00,2.680,Provisional,77.14,In Review
+2022-04-25 00:00,2.680,Provisional,77.13,In Review
+2022-04-26 00:00,2.691,Provisional,78.45,In Review
+2022-04-27 00:00,2.746,Provisional,85.02,In Review
+2022-04-28 00:00,2.789,Provisional,90.15,In Review
+2022-04-29 00:00,2.822,Provisional,94.36,In Review
+2022-04-30 00:00,2.846,Provisional,98.88,In Review
+2022-05-01 00:00,2.876,Provisional,105.2,In Review
+2022-05-02 00:00,2.914,Provisional,113.5,In Review
+2022-05-03 00:00,2.973,Provisional,126.9,In Review
+2022-05-04 00:00,3.132,Provisional,166.1,In Review
+2022-05-05 00:00,3.378,Provisional,236.8,In Review
+2022-05-06 00:00,3.676,Provisional,339.4,In Review
+2022-05-07 00:00,4.112,Provisional,522.7,In Review
+2022-05-08 00:00,4.302,Provisional,613.7,In Review
+2022-05-09 00:00,4.071,Provisional,503.6,In Review
+2022-05-10 00:00,3.841,Provisional,404.4,In Review
+2022-05-11 00:00,3.650,Provisional,329.8,In Review
+2022-05-12 00:00,3.516,Provisional,282.2,In Review
+2022-05-13 00:00,3.439,Provisional,256.4,In Review
+2022-05-14 00:00,3.410,Provisional,246.8,In Review
+2022-05-15 00:00,3.364,Provisional,232.3,In Review
+2022-05-16 00:00,3.347,Provisional,227.1,In Review
+2022-05-17 00:00,3.685,Provisional,345.8,In Review
+2022-05-18 00:00,4.106,Provisional,521.2,In Review
+2022-05-19 00:00,4.153,Provisional,543.4,In Review
+2022-05-20 00:00,4.033,Provisional,488.2,In Review
+2022-05-21 00:00,3.855,Provisional,411.4,In Review
+2022-05-22 00:00,3.706,Provisional,352.0,In Review
+2022-05-23 00:00,3.582,Provisional,305.7,In Review
+2022-05-24 00:00,3.513,Provisional,281.5,In Review
+2022-05-25 00:00,3.473,Provisional,268.1,In Review
+2022-05-26 00:00,3.513,Provisional,281.7,In Review
+2022-05-27 00:00,3.780,Provisional,382.5,In Review
+2022-05-28 00:00,4.375,Provisional,656.9,In Review
+2022-05-29 00:00,4.618,Provisional,784.7,In Review
+2022-05-30 00:00,4.355,Provisional,646.1,In Review
+2022-05-31 00:00,4.249,Provisional,593.3,In Review
+2022-06-01 00:00,4.096,Provisional,518.9,In Review
+2022-06-02 00:00,4.067,Provisional,505.8,In Review
+2022-06-03 00:00,4.100,Provisional,521.3,In Review
+2022-06-04 00:00,4.251,Provisional,595.0,In Review
+2022-06-05 00:00,4.487,Provisional,715.9,In Review
+2022-06-06 00:00,4.452,Provisional,697.9,In Review
+2022-06-07 00:00,4.503,Provisional,724.1,In Review
+2022-06-08 00:00,4.417,Provisional,680.4,In Review
+2022-06-09 00:00,4.232,Provisional,586.9,In Review
+2022-06-10 00:00,4.127,Provisional,535.5,In Review
+2022-06-11 00:00,4.498,Provisional,726.0,In Review
+2022-06-12 00:00,4.774,Provisional,874.9,In Review
+2022-06-13 00:00,4.529,Provisional,740.7,In Review
+2022-06-14 00:00,4.316,Provisional,630.3,In Review
+2022-06-15 00:00,4.170,Provisional,557.3,In Review
+2022-06-16 00:00,4.069,Provisional,509.3,In Review
+2022-06-17 00:00,3.992,Provisional,474.2,In Review
+2022-06-18 00:00,4.040,Provisional,496.3,In Review
+2022-06-19 00:00,4.334,Provisional,640.7,In Review
+2022-06-20 00:00,4.459,Provisional,705.2,In Review
+2022-06-21 00:00,4.326,Provisional,637.1,In Review
+2022-06-22 00:00,4.306,Provisional,627.0,In Review
+2022-06-23 00:00,4.162,Provisional,553.7,In Review
+2022-06-24 00:00,4.120,Provisional,532.5,In Review
+2022-06-25 00:00,4.046,Provisional,496.5,In Review
+2022-06-26 00:00,3.871,Provisional,418.0,In Review
+2022-06-27 00:00,3.753,Provisional,368.3,In Review
+2022-06-28 00:00,3.689,Provisional,342.3,In Review
+2022-06-29 00:00,3.668,Provisional,333.2,In Review
+2022-06-30 00:00,3.637,Provisional,320.7,In Review
+2022-07-01 00:00,3.547,Provisional,287.1,In Review
+2022-07-02 00:00,3.458,Provisional,255.8,In Review
+2022-07-03 00:00,3.400,Provisional,236.0,In Review
+2022-07-04 00:00,3.363,Provisional,223.6,In Review
+2022-07-05 00:00,3.333,Provisional,213.5,In Review
+2022-07-06 00:00,3.293,Provisional,200.9,In Review
+2022-07-07 00:00,3.237,Provisional,183.8,In Review
+2022-07-08 00:00,3.193,Provisional,170.9,In Review
+2022-07-09 00:00,3.139,Provisional,156.1,In Review
+2022-07-10 00:00,3.112,Provisional,148.5,In Review
+2022-07-11 00:00,3.066,Provisional,136.2,In Review
+2022-07-12 00:00,3.023,Provisional,125.4,In Review
+2022-07-13 00:00,2.992,Provisional,117.7,In Review
+2022-07-14 00:00,2.961,Provisional,110.3,In Review
+2022-07-15 00:00,2.928,Provisional,102.7,In Review
+2022-07-16 00:00,2.900,Provisional,96.16,In Review
+2022-07-17 00:00,2.874,Provisional,91.40,In Review
+2022-07-18 00:00,2.846,Provisional,87.37,In Review
+2022-07-19 00:00,2.820,Provisional,83.57,In Review
+2022-07-20 00:00,2.800,Provisional,80.66,In Review
+2022-07-21 00:00,2.772,Provisional,76.57,In Review
+2022-07-22 00:00,2.749,Provisional,73.22,In Review
+2022-07-23 00:00,2.730,Provisional,70.26,In Review
+2022-07-24 00:00,2.713,Provisional,67.68,In Review
+2022-07-25 00:00,2.711,Provisional,66.97,In Review
+2022-07-26 00:00,2.694,Provisional,64.25,In Review
+2022-07-27 00:00,2.659,Provisional,58.62,In Review
+2022-07-28 00:00,2.632,Provisional,54.35,In Review
+2022-07-29 00:00,2.607,Provisional,51.21,In Review
+2022-07-30 00:00,2.584,Provisional,48.52,In Review
+2022-07-31 00:00,2.564,Provisional,46.21,In Review
+2022-08-01 00:00,2.544,Provisional,43.88,In Review
+2022-08-02 00:00,2.524,Provisional,41.51,In Review
+2022-08-03 00:00,2.515,Provisional,40.68,In Review
+2022-08-04 00:00,2.512,Provisional,40.39,In Review
+2022-08-05 00:00,2.509,Provisional,40.23,In Review
+2022-08-06 00:00,2.493,Provisional,38.51,In Review
+2022-08-07 00:00,2.480,Provisional,37.01,In Review
+2022-08-08 00:00,2.476,Provisional,36.75,In Review
+2022-08-09 00:00,2.465,Provisional,35.65,In Review
+2022-08-10 00:00,2.449,Provisional,33.93,In Review
+2022-08-11 00:00,2.445,Provisional,33.60,In Review
+2022-08-12 00:00,2.441,Provisional,33.30,In Review
+2022-08-13 00:00,2.425,Provisional,31.55,In Review
+2022-08-14 00:00,2.429,Provisional,32.21,In Review
+2022-08-15 00:00,2.412,Provisional,30.42,In Review
+2022-08-16 00:00,2.402,Provisional,29.36,In Review
+2022-08-17 00:00,2.393,Provisional,28.54,In Review
+2022-08-18 00:00,2.380,Provisional,27.26,In Review
+2022-08-19 00:00,2.363,Provisional,25.43,In Review
+2022-08-20 00:00,2.350,Provisional,24.20,In Review
+2022-08-21 00:00,2.347,Provisional,24.02,In Review
+2022-08-22 00:00,2.347,Provisional,24.11,In Review
+2022-08-23 00:00,2.339,Provisional,23.46,In Review
+2022-08-24 00:00,2.330,Provisional,22.65,In Review
+2022-08-25 00:00,2.330,Provisional,22.74,In Review
+2022-08-26 00:00,2.344,Provisional,24.40,In Review
+2022-08-27 00:00,2.344,Provisional,24.58,In Review
+2022-08-28 00:00,2.340,Provisional,24.17,In Review
+2022-08-29 00:00,2.327,Provisional,22.89,In Review
+2022-08-30 00:00,2.315,Provisional,21.67,In Review
+2022-08-31 00:00,2.301,Provisional,20.34,In Review
+2022-09-01 00:00,2.288,Provisional,19.05,In Review
+2022-09-02 00:00,2.281,Provisional,18.42,In Review
+2022-09-03 00:00,2.277,Provisional,18.05,In Review
+2022-09-04 00:00,2.274,Provisional,17.87,In Review
+2022-09-05 00:00,2.274,Provisional,17.92,In Review
+2022-09-06 00:00,2.265,Provisional,17.13,In Review
+2022-09-07 00:00,2.262,Provisional,16.84,In Review
+2022-09-08 00:00,2.261,Provisional,16.84,In Review
+2022-09-09 00:00,2.254,Provisional,16.23,In Review
+2022-09-10 00:00,2.248,Provisional,15.77,In Review
+2022-09-11 00:00,2.251,Provisional,16.08,In Review
+2022-09-12 00:00,2.248,Provisional,15.90,In Review
+2022-09-13 00:00,2.245,Provisional,15.68,In Review
+2022-09-14 00:00,2.254,Provisional,16.61,In Review
+2022-09-15 00:00,2.272,Provisional,18.52,In Review
+2022-09-16 00:00,2.265,Provisional,17.93,In Review
+2022-09-17 00:00,2.263,Provisional,17.80,In Review
+2022-09-18 00:00,2.252,Provisional,16.82,In Review
+2022-09-19 00:00,2.245,Provisional,16.17,In Review
+2022-09-20 00:00,2.249,Provisional,16.67,In Review
+2022-09-21 00:00,2.240,Provisional,15.86,In Review
+2022-09-22 00:00,2.236,Provisional,15.46,In Review
+2022-09-23 00:00,2.394,Provisional,32.99,In Review
+2022-09-24 00:00,2.642,Provisional,61.76,In Review
+2022-09-25 00:00,2.459,Provisional,39.72,In Review
+2022-09-26 00:00,2.403,Provisional,33.49,In Review
+2022-09-27 00:00,2.371,Provisional,29.93,In Review
+2022-09-28 00:00,2.343,Provisional,27.02,In Review
+2022-09-29 00:00,2.327,Provisional,25.35,In Review
+2022-09-30 00:00,2.317,Provisional,24.43,In Review
+2022-10-01 00:00,2.310,Provisional,23.80,In Review
+2022-10-02 00:00,2.313,Provisional,24.16,In Review
+2022-10-03 00:00,2.312,Provisional,24.20,In Review
+2022-10-04 00:00,2.304,Provisional,23.46,In Review
+2022-10-05 00:00,2.289,Provisional,21.94,In Review
+2022-10-06 00:00,2.280,Provisional,21.11,In Review
+2022-10-07 00:00,2.274,Provisional,20.58,In Review
+2022-10-08 00:00,2.273,Provisional,20.57,In Review
+2022-10-09 00:00,2.280,Provisional,21.43,In Review
+2022-10-10 00:00,2.282,Provisional,21.65,In Review
+2022-10-11 00:00,2.283,Provisional,21.82,In Review
+2022-10-12 00:00,2.278,Provisional,21.43,In Review
+2022-10-13 00:00,2.270,Provisional,20.75,In Review
+2022-10-14 00:00,2.266,Provisional,20.38,In Review
+2022-10-15 00:00,2.266,Provisional,20.44,In Review
+2022-10-16 00:00,2.260,Provisional,19.79,In Review
+2022-10-17 00:00,2.250,Provisional,18.58,In Review
+2022-10-18 00:00,2.247,Provisional,18.19,In Review
+2022-10-19 00:00,2.247,Provisional,18.02,In Review
+2022-10-20 00:00,2.243,Provisional,17.45,In Review
+2022-10-21 00:00,2.240,Provisional,17.07,In Review
+2022-10-22 00:00,2.242,Provisional,17.17,In Review
+2022-10-23 00:00,2.303,Provisional,23.23,In Review
+2022-10-24 00:00,2.289,Provisional,21.71,In Review
+2022-10-25 00:00,2.278,Provisional,20.42,In Review
+2022-10-26 00:00,2.282,Provisional,20.80,In Review
+2022-10-27 00:00,2.292,Provisional,21.69,In Review
+2022-10-28 00:00,2.282,Provisional,20.45,In Review
+2022-10-29 00:00,2.279,Provisional,20.04,In Review
+2022-10-30 00:00,2.278,Provisional,19.88,In Review
+2022-10-31 00:00,2.275,Provisional,19.42,In Review
+2022-11-01 00:00,2.276,Provisional,19.37,In Review
+2022-11-02 00:00,2.301,Provisional,21.91,In Review
+2022-11-03 00:00,2.335,Provisional,25.43,In Review
+2022-11-04 00:00,2.317,Provisional,23.30,In Review
+2022-11-05 00:00,2.319,Provisional,,
+2022-11-06 00:00,2.417,Provisional,,
+2022-11-07 00:00,2.378,Provisional,,
+2022-11-08 00:00,2.354,Provisional,,
+2022-11-09 00:00,2.327,Provisional,,
+2022-11-10 00:00,-4.150,Provisional,,
+2022-11-11 00:00,2.443,Provisional,,
+2022-11-12 00:00,2.374,Provisional,,
+2022-11-13 00:00,2.471,Provisional,,
+2022-11-14 00:00,2.501,Provisional,,
+2022-11-15 00:00,2.339,Provisional,,
+2022-11-16 00:00,2.293,Provisional,,
+2022-11-17 00:00,2.289,Provisional,,
+2022-11-18 00:00,2.288,Provisional,,
+2022-11-19 00:00,2.576,Provisional,,
+2022-11-20 00:00,2.775,Provisional,,
+2022-11-21 00:00,2.788,Provisional,,
+2022-11-22 00:00,2.762,Provisional,,
+2022-11-23 00:00,2.649,Provisional,,
+2022-11-24 00:00,2.715,Provisional,,
+2022-11-25 00:00,2.542,Provisional,,
+2022-11-26 00:00,2.337,Provisional,,
+2022-11-27 00:00,2.282,Provisional,,
+2022-11-28 00:00,2.271,Provisional,,
+2022-11-29 00:00,2.262,Provisional,,
+2022-11-30 00:00,2.366,Provisional,,
+2022-12-01 00:00,2.656,Provisional,,
+2022-12-02 00:00,2.790,Provisional,,
+2022-12-03 00:00,2.537,Provisional,,
+2022-12-04 00:00,2.416,Provisional,,
+2022-12-05 00:00,2.972,Provisional,,
+2022-12-06 00:00,3.370,Provisional,,
+2022-12-07 00:00,3.446,Provisional,,
+2022-12-08 00:00,3.073,Provisional,,
+2022-12-09 00:00,2.272,Provisional,,
+2022-12-10 00:00,2.351,Provisional,,
+2022-12-11 00:00,2.260,Provisional,,
+2022-12-12 00:00,2.263,Provisional,,
+2022-12-13 00:00,2.262,Provisional,,
+2022-12-14 00:00,2.255,Provisional,,
+2022-12-15 00:00,2.256,Provisional,,
+2022-12-16 00:00,2.249,Provisional,,
+2022-12-17 00:00,2.238,Provisional,,
+2022-12-18 00:00,2.257,Provisional,,
+2022-12-19 00:00,2.380,Provisional,,
+2022-12-20 00:00,2.240,Provisional,,
+2022-12-21 00:00,2.242,Provisional,,
+2022-12-22 00:00,2.268,Provisional,,
+2022-12-23 00:00,2.334,Provisional,,
+2022-12-24 00:00,2.740,Provisional,,
+2022-12-25 00:00,2.838,Provisional,,
+2022-12-26 00:00,2.842,Provisional,,
+2022-12-27 00:00,3.051,Provisional,,
+2022-12-28 00:00,3.093,Provisional,,
+2022-12-29 00:00,3.085,Provisional,,
+2022-12-30 00:00,2.453,Provisional,,
+2022-12-31 00:00,2.430,Provisional,,
+2023-01-01 00:00,2.413,Provisional,,
+2023-01-02 00:00,2.388,Provisional,,
+2023-01-03 00:00,2.376,Provisional,,
+2023-01-04 00:00,2.419,Provisional,,
+2023-01-05 00:00,2.484,Provisional,,
+2023-01-06 00:00,2.355,Provisional,,
+2023-01-07 00:00,2.341,Provisional,,
+2023-01-08 00:00,2.328,Provisional,,
+2023-01-09 00:00,2.324,Provisional,,
+2023-01-10 00:00,2.318,Provisional,,
+2023-01-11 00:00,2.316,Provisional,,
+2023-01-12 00:00,2.304,Provisional,,
+2023-01-13 00:00,2.298,Provisional,,
+2023-01-14 00:00,2.290,Provisional,,
+2023-01-15 00:00,2.305,Provisional,,
+2023-01-16 00:00,2.312,Provisional,,
+2023-01-17 00:00,2.312,Provisional,,
+2023-01-18 00:00,2.322,Provisional,,
+2023-01-19 00:00,2.310,Provisional,,
+2023-01-20 00:00,2.310,Provisional,,
+2023-01-21 00:00,2.302,Provisional,,
+2023-01-22 00:00,2.298,Provisional,,
+2023-01-23 00:00,2.291,Provisional,,
+2023-01-24 00:00,2.308,Provisional,,
+2023-01-25 00:00,2.292,Provisional,,
+2023-01-26 00:00,2.290,Provisional,,
+2023-01-27 00:00,2.292,Provisional,,
+2023-01-28 00:00,2.367,Provisional,,
+2023-01-29 00:00,2.323,Provisional,,
+2023-01-30 00:00,2.643,Provisional,,
+2023-01-31 00:00,2.609,Provisional,,
+2023-02-01 00:00,2.692,Provisional,,
+2023-02-03 00:00,2.840,Provisional,,
+2023-02-04 00:00,3.088,Provisional,,
+2023-02-05 00:00,3.283,Provisional,,
+2023-02-06 00:00,3.195,Provisional,,
+2023-02-07 00:00,2.466,Provisional,,
+2023-02-08 00:00,2.321,Provisional,,
+2023-02-09 00:00,2.317,Provisional,,
+2023-02-10 00:00,2.296,Provisional,,
+2023-02-11 00:00,2.296,Provisional,,
+2023-02-12 00:00,2.294,Provisional,,
+2023-02-13 00:00,2.290,Provisional,,
+2023-02-14 00:00,2.286,Provisional,,
+2023-02-15 00:00,2.289,Provisional,,
+2023-02-16 00:00,2.291,Provisional,,
+2023-02-17 00:00,2.386,Provisional,,
+2023-02-18 00:00,2.384,Provisional,,
+2023-02-19 00:00,2.281,Provisional,,
+2023-02-20 00:00,2.275,Provisional,,
+2023-02-21 00:00,2.296,Provisional,,
+2023-02-22 00:00,2.334,Provisional,,
+2023-02-23 00:00,2.455,Provisional,,
+2023-02-24 00:00,2.517,Provisional,,
+2023-02-25 00:00,2.540,Provisional,,
+2023-02-26 00:00,2.609,Provisional,,
+2023-02-27 00:00,2.932,Provisional,,
+2023-02-28 00:00,3.116,Provisional,,
+2023-03-01 00:00,3.079,Provisional,,
+2023-03-02 00:00,2.926,Provisional,,
+2023-03-03 00:00,2.501,Provisional,,
+2023-03-04 00:00,2.291,Provisional,20.85,In Review
+2023-03-05 00:00,2.278,Provisional,19.51,In Review
+2023-03-06 00:00,2.271,Provisional,18.73,In Review
+2023-03-07 00:00,2.277,Provisional,19.38,In Review
+2023-03-08 00:00,2.264,Provisional,18.05,In Review
+2023-03-09 00:00,2.258,Provisional,17.39,In Review
+2023-03-10 00:00,2.263,Provisional,17.92,In Review
+2023-03-11 00:00,2.257,Provisional,17.26,In Review
+2023-03-12 00:00,2.259,Provisional,17.48,In Review
+2023-03-13 00:00,2.258,Provisional,17.31,In Review
+2023-03-14 00:00,2.265,Provisional,18.04,In Review
+2023-03-15 00:00,2.287,Provisional,20.29,In Review
+2023-03-16 00:00,2.291,Provisional,20.66,In Review
+2023-03-17 00:00,2.284,Provisional,19.93,In Review
+2023-03-18 00:00,2.284,Provisional,19.97,In Review
+2023-03-19 00:00,2.293,Provisional,20.82,In Review
+2023-03-20 00:00,2.303,Provisional,21.95,In Review
+2023-03-21 00:00,2.322,Provisional,23.88,In Review
+2023-03-22 00:00,2.328,Provisional,24.52,In Review
+2023-03-23 00:00,2.334,Provisional,25.23,In Review
+2023-03-24 00:00,2.348,Provisional,26.67,In Review
+2023-03-25 00:00,2.362,Provisional,28.15,In Review
+2023-03-26 00:00,2.352,Provisional,27.09,In Review
+2023-03-27 00:00,2.353,Provisional,27.21,In Review
+2023-03-28 00:00,2.339,Provisional,25.70,In Review
+2023-03-29 00:00,2.339,Provisional,25.68,In Review
+2023-03-30 00:00,2.339,Provisional,25.80,In Review
+2023-03-31 00:00,2.344,Provisional,26.41,In Review
+2023-04-01 00:00,2.363,Provisional,28.59,In Review
+2023-04-02 00:00,2.355,Provisional,27.81,In Review
+2023-04-03 00:00,2.352,Provisional,27.65,In Review
+2023-04-04 00:00,2.340,Provisional,26.43,In Review
+2023-04-05 00:00,2.335,Provisional,26.00,In Review
+2023-04-06 00:00,2.330,Provisional,25.58,In Review
+2023-04-07 00:00,2.326,Provisional,25.23,In Review
+2023-04-08 00:00,2.343,Provisional,27.25,In Review
+2023-04-09 00:00,2.397,Provisional,33.36,In Review
+2023-04-10 00:00,2.460,Provisional,40.91,In Review
+2023-04-11 00:00,2.669,Provisional,66.83,In Review
+2023-04-12 00:00,3.124,Provisional,145.8,In Review
+2023-04-13 00:00,3.191,Provisional,163.0,In Review
+2023-04-14 00:00,3.090,Provisional,137.6,In Review
+2023-04-15 00:00,2.992,Provisional,114.9,In Review
+2023-04-16 00:00,2.917,Provisional,98.99,In Review
+2023-04-17 00:00,2.891,Provisional,94.42,In Review
+2023-04-18 00:00,2.963,Provisional,109.6,In Review
+2023-04-19 00:00,2.975,Provisional,112.5,In Review
+2023-04-20 00:00,2.932,Provisional,103.4,In Review
+2023-04-21 00:00,2.883,Provisional,94.25,In Review
+2023-04-22 00:00,2.860,Provisional,91.22,In Review
+2023-04-23 00:00,2.825,Provisional,87.20,In Review
+2023-04-24 00:00,2.798,Provisional,84.17,In Review
+2023-04-25 00:00,2.847,Provisional,90.36,In Review
+2023-04-26 00:00,2.927,Provisional,104.2,In Review
+2023-04-27 00:00,2.988,Provisional,118.0,In Review
+2023-04-28 00:00,3.136,Provisional,154.8,In Review
+2023-04-29 00:00,3.389,Provisional,227.1,In Review
+2023-04-30 00:00,3.584,Provisional,293.5,In Review
+2023-05-01 00:00,3.978,Provisional,450.6,In Review
+2023-05-02 00:00,4.341,Provisional,624.5,In Review
+2023-05-03 00:00,4.724,Provisional,831.6,In Review
+2023-05-04 00:00,4.886,Provisional,926.3,In Review
+2023-05-05 00:00,4.887,Provisional,927.0,In Review
+2023-05-06 00:00,5.119,Provisional,1072.4,In Review
+2023-05-07 00:00,5.114,Provisional,1068.4,In Review
+2023-05-08 00:00,4.814,Provisional,883.6,In Review
+2023-05-09 00:00,4.472,Provisional,690.7,In Review
+2023-05-10 00:00,4.269,Provisional,585.7,In Review
+2023-05-11 00:00,4.224,Provisional,563.1,In Review
+2023-05-12 00:00,4.165,Provisional,533.8,In Review
+2023-05-13 00:00,4.183,Provisional,542.3,In Review
+2023-05-14 00:00,4.247,Provisional,573.1,In Review
+2023-05-15 00:00,4.326,Provisional,612.8,In Review
+2023-05-16 00:00,4.601,Provisional,757.9,In Review
+2023-05-17 00:00,4.740,Provisional,836.3,In Review
+2023-05-18 00:00,4.781,Provisional,859.9,In Review
+2023-05-19 00:00,4.546,Provisional,726.7,In Review
+2023-05-20 00:00,4.487,Provisional,694.6,In Review
+2023-05-21 00:00,4.520,Provisional,712.0,In Review
+2023-05-22 00:00,4.561,Provisional,733.8,In Review
+2023-05-23 00:00,4.555,Provisional,730.1,In Review
+2023-05-24 00:00,4.320,Provisional,607.7,In Review
+2023-05-25 00:00,4.131,Provisional,513.9,In Review
+2023-05-26 00:00,4.061,Provisional,481.4,In Review
+2023-05-27 00:00,3.995,Provisional,451.6,In Review
+2023-05-28 00:00,3.968,Provisional,439.2,In Review
+2023-05-29 00:00,3.960,Provisional,435.5,In Review
+2023-05-30 00:00,3.941,Provisional,427.2,In Review
+2023-05-31 00:00,3.926,Provisional,420.4,In Review
+2023-06-01 00:00,3.896,Provisional,407.9,In Review
+2023-06-02 00:00,3.809,Provisional,371.8,In Review
+2023-06-03 00:00,3.734,Provisional,342.0,In Review
+2023-06-04 00:00,3.650,Provisional,310.3,In Review
+2023-06-05 00:00,3.589,Provisional,288.1,In Review
+2023-06-06 00:00,3.547,Provisional,273.4,In Review
+2023-06-07 00:00,3.505,Provisional,258.7,In Review
+2023-06-08 00:00,3.624,Provisional,300.5,In Review
+2023-06-09 00:00,3.543,Provisional,271.3,In Review
+2023-06-10 00:00,3.480,Provisional,249.8,In Review
+2023-06-11 00:00,3.394,Provisional,222.3,In Review
+2023-06-12 00:00,3.374,Provisional,216.0,In Review
+2023-06-13 00:00,3.354,Provisional,209.7,In Review
+2023-06-14 00:00,3.295,Provisional,192.2,In Review
+2023-06-15 00:00,3.288,Provisional,190.0,In Review
+2023-06-16 00:00,3.223,Provisional,171.4,In Review
+2023-06-17 00:00,3.165,Provisional,155.9,In Review
+2023-06-18 00:00,3.231,Provisional,174.1,In Review
+2023-06-19 00:00,3.403,Provisional,223.5,In Review
+2023-06-20 00:00,3.340,Provisional,204.3,In Review
+2023-06-21 00:00,3.268,Provisional,183.1,In Review
+2023-06-22 00:00,3.205,Provisional,165.5,In Review
+2023-06-23 00:00,3.151,Provisional,151.4,In Review
+2023-06-24 00:00,3.108,Provisional,140.3,In Review
+2023-06-25 00:00,3.077,Provisional,132.7,In Review
+2023-06-26 00:00,3.039,Provisional,123.5,In Review
+2023-06-27 00:00,3.014,Provisional,117.6,In Review
+2023-06-28 00:00,3.013,Provisional,117.3,In Review
+2023-06-29 00:00,2.993,Provisional,112.6,In Review
+2023-06-30 00:00,2.964,Provisional,106.1,In Review
+2023-07-01 00:00,2.926,Provisional,98.04,In Review
+2023-07-02 00:00,2.891,Provisional,91.68,In Review
+2023-07-03 00:00,2.861,Provisional,87.43,In Review
+2023-07-04 00:00,2.836,Provisional,83.84,In Review
+2023-07-05 00:00,2.814,Provisional,80.84,In Review
+2023-07-06 00:00,2.796,Provisional,78.15,In Review
+2023-07-07 00:00,2.778,Provisional,75.59,In Review
+2023-07-08 00:00,2.755,Provisional,72.33,In Review
+2023-07-09 00:00,2.731,Provisional,69.01,In Review
+2023-07-10 00:00,2.714,Provisional,66.57,In Review
+2023-07-11 00:00,2.705,Provisional,65.12,In Review
+2023-07-12 00:00,2.683,Provisional,61.75,In Review
+2023-07-13 00:00,2.652,Provisional,56.82,In Review
+2023-07-14 00:00,2.631,Provisional,53.51,In Review
+2023-07-15 00:00,2.611,Provisional,50.31,In Review
+2023-07-16 00:00,2.592,Provisional,47.38,In Review
+2023-07-17 00:00,2.571,Provisional,44.15,In Review
+2023-07-18 00:00,2.555,Provisional,41.67,In Review
+2023-07-19 00:00,2.539,Provisional,39.19,In Review
+2023-07-20 00:00,2.525,Provisional,37.09,In Review
+2023-07-21 00:00,2.513,Provisional,35.43,In Review
+2023-07-22 00:00,2.495,Provisional,33.49,In Review
+2023-07-23 00:00,2.474,Provisional,31.36,In Review
+2023-07-24 00:00,2.459,Provisional,29.95,In Review
+2023-07-25 00:00,2.445,Provisional,28.63,In Review
+2023-07-26 00:00,2.437,Provisional,27.94,In Review
+2023-07-27 00:00,2.421,Provisional,26.43,In Review
+2023-07-28 00:00,2.417,Provisional,26.29,In Review
+2023-07-29 00:00,2.412,Provisional,26.01,In Review
+2023-07-30 00:00,2.399,Provisional,24.84,In Review
+2023-07-31 00:00,2.387,Provisional,23.74,In Review
+2023-08-01 00:00,2.372,Provisional,22.42,In Review
+2023-08-02 00:00,2.357,Provisional,21.10,In Review
+2023-08-03 00:00,2.352,Provisional,20.77,In Review
+2023-08-04 00:00,2.354,Provisional,21.30,In Review
+2023-08-05 00:00,2.361,Provisional,22.21,In Review
+2023-08-06 00:00,2.377,Provisional,24.23,In Review
+2023-08-07 00:00,2.453,Provisional,33.06,In Review
+2023-08-08 00:00,2.447,Provisional,32.92,In Review
+2023-08-09 00:00,2.419,Provisional,29.66,In Review
+2023-08-10 00:00,2.404,Provisional,28.21,In Review
+2023-08-11 00:00,2.404,Provisional,28.53,In Review
+2023-08-12 00:00,2.381,Provisional,26.19,In Review
+2023-08-13 00:00,2.365,Provisional,24.73,In Review
+2023-08-14 00:00,2.351,Provisional,23.50,In Review
+2023-08-15 00:00,2.339,Provisional,22.45,In Review
+2023-08-16 00:00,2.325,Provisional,21.18,In Review
+2023-08-17 00:00,2.317,Provisional,20.55,In Review
+2023-08-18 00:00,2.306,Provisional,19.68,In Review
+2023-08-19 00:00,2.295,Provisional,18.75,In Review
+2023-08-20 00:00,2.295,Provisional,18.99,In Review
+2023-08-21 00:00,2.289,Provisional,18.68,In Review
+2023-08-22 00:00,2.348,Provisional,25.23,In Review
+2023-08-23 00:00,2.389,Provisional,30.05,In Review
+2023-08-24 00:00,2.363,Provisional,27.36,In Review
+2023-08-25 00:00,2.337,Provisional,24.45,In Review
+2023-08-26 00:00,2.308,Provisional,21.39,In Review
+2023-08-27 00:00,2.301,Provisional,20.64,In Review
+2023-08-28 00:00,2.284,Provisional,18.95,In Review
+2023-08-29 00:00,2.274,Provisional,17.88,In Review
+2023-08-30 00:00,2.285,Provisional,19.18,In Review
+2023-08-31 00:00,2.469,Provisional,39.67,In Review
+2023-09-01 00:00,2.492,Provisional,42.41,In Review
+2023-09-02 00:00,2.416,Provisional,33.52,In Review
+2023-09-03 00:00,2.380,Provisional,29.46,In Review
+2023-09-04 00:00,2.364,Provisional,27.64,In Review
+2023-09-05 00:00,2.361,Provisional,27.31,In Review
+2023-09-06 00:00,2.363,Provisional,27.54,In Review
+2023-09-07 00:00,2.360,Provisional,27.25,In Review
+2023-09-08 00:00,2.392,Provisional,30.84,In Review
+2023-09-09 00:00,2.383,Provisional,29.84,In Review
+2023-09-10 00:00,2.349,Provisional,26.12,In Review
+2023-09-11 00:00,2.331,Provisional,24.16,In Review
+2023-09-12 00:00,2.318,Provisional,22.75,In Review
+2023-09-13 00:00,2.307,Provisional,21.70,In Review
+2023-09-14 00:00,2.298,Provisional,20.74,In Review
+2023-09-15 00:00,2.294,Provisional,20.34,In Review
+2023-09-16 00:00,2.285,Provisional,19.43,In Review
+2023-09-17 00:00,2.276,Provisional,18.52,In Review
+2023-09-18 00:00,2.268,Provisional,17.72,In Review
+2023-09-19 00:00,2.264,Provisional,17.30,In Review
+2023-09-20 00:00,2.259,Provisional,16.86,In Review
+2023-09-21 00:00,2.258,Provisional,16.73,In Review
+2023-09-22 00:00,2.279,Provisional,18.95,In Review
+2023-09-23 00:00,2.364,Provisional,28.08,In Review
+2023-09-24 00:00,2.361,Provisional,27.66,In Review
+2023-09-25 00:00,2.311,Provisional,22.31,In Review
+2023-09-26 00:00,2.290,Provisional,20.17,In Review
+2023-09-27 00:00,2.276,Provisional,18.72,In Review
+2023-09-28 00:00,2.271,Provisional,18.20,In Review
+2023-09-29 00:00,2.276,Provisional,18.78,In Review
+2023-09-30 00:00,2.271,Provisional,18.28,In Review
+2023-10-01 00:00,2.277,Provisional,18.93,Provisional
+2023-10-02 00:00,2.320,Provisional,23.45,Provisional
+2023-10-03 00:00,2.305,Provisional,21.82,Provisional
+2023-10-04 00:00,2.303,Provisional,21.61,Provisional
+2023-10-05 00:00,2.303,Provisional,21.70,Provisional
+2023-10-06 00:00,2.289,Provisional,20.29,Provisional
+2023-10-07 00:00,2.280,Provisional,19.33,Provisional
+2023-10-08 00:00,2.272,Provisional,18.55,Provisional
+2023-10-09 00:00,2.274,Provisional,18.75,Provisional
+2023-10-10 00:00,2.269,Provisional,18.28,Provisional
+2023-10-11 00:00,2.270,Provisional,18.45,Provisional
+2023-10-12 00:00,2.288,Provisional,20.30,Provisional
+2023-10-13 00:00,2.306,Provisional,22.17,Provisional
+2023-10-14 00:00,2.302,Provisional,21.81,Provisional
+2023-10-15 00:00,2.294,Provisional,20.94,Provisional
+2023-10-16 00:00,2.289,Provisional,20.44,Provisional
+2023-10-17 00:00,2.280,Provisional,19.56,Provisional
+2023-10-18 00:00,2.281,Provisional,19.70,Provisional
+2023-10-19 00:00,2.288,Provisional,20.41,Provisional
+2023-10-20 00:00,2.280,Provisional,19.60,Provisional
+2023-10-21 00:00,2.275,Provisional,19.16,Provisional
+2023-10-22 00:00,2.269,Provisional,18.52,Provisional
+2023-10-23 00:00,2.262,Provisional,17.80,Provisional
+2023-10-24 00:00,2.288,Provisional,20.56,Provisional
+2023-10-25 00:00,2.293,Provisional,21.08,Provisional
+2023-10-26 00:00,2.313,Provisional,23.17,Provisional
+2023-10-27 00:00,2.308,Provisional,22.68,Provisional
+2023-10-28 00:00,2.303,Provisional,22.18,Provisional
+2023-10-29 00:00,2.296,Provisional,21.45,Provisional
+2023-10-30 00:00,2.283,Provisional,20.10,Provisional
+2023-10-31 00:00,2.286,Provisional,20.44,Provisional
+2023-11-01 00:00,2.278,Provisional,19.63,Provisional
+2023-11-02 00:00,2.280,Provisional,19.69,Provisional
+2023-11-03 00:00,2.339,Provisional,25.84,Provisional
+2023-11-04 00:00,2.528,Provisional,47.35,Provisional
+2023-11-05 00:00,2.533,Provisional,47.80,Provisional
+2023-11-06 00:00,2.667,Provisional,64.34,Provisional
+2023-11-07 00:00,2.709,Provisional,69.46,Provisional
+2023-11-08 00:00,2.699,Provisional,68.25,Provisional
+2023-11-09 00:00,2.671,Provisional,64.94,Provisional
+2023-11-10 00:00,2.635,Provisional,60.19,Provisional
+2023-11-11 00:00,2.612,Provisional,57.20,Provisional
+2023-11-12 00:00,2.590,Provisional,54.22,Provisional
+2023-11-13 00:00,2.571,Provisional,51.63,Provisional
+2023-11-14 00:00,2.553,Provisional,49.29,Provisional
+2023-11-15 00:00,2.535,Provisional,46.96,Provisional
+2023-11-16 00:00,2.522,Provisional,45.16,Provisional
+2023-11-17 00:00,2.528,Provisional,45.85,Provisional
+2023-11-18 00:00,2.506,Provisional,42.98,Provisional
+2023-11-19 00:00,2.495,Provisional,41.51,Provisional
+2023-11-20 00:00,2.487,Provisional,40.43,Provisional
+2023-11-21 00:00,2.473,Provisional,38.60,Provisional
+2023-11-22 00:00,2.451,Provisional,35.73,Provisional
+2023-11-23 00:00,2.464,Provisional,37.24,Provisional
+2023-11-24 00:00,2.449,Provisional,35.25,Provisional
+2023-11-25 00:00,2.416,Provisional,31.26,Provisional
+2023-11-26 00:00,2.402,Provisional,30.35,Provisional
+2023-11-27 00:00,2.448,Provisional,30.24,Provisional
+2023-11-28 00:00,2.653,Provisional,29.10,Provisional
+2023-11-29 00:00,3.029,Provisional,29.02,Provisional
+2023-11-30 00:00,3.574,Provisional,27.44,Provisional
+2023-12-01 00:00,3.852,Provisional,27.28,Provisional
+2023-12-02 00:00,3.613,Provisional,27.31,Provisional
+2023-12-03 00:00,2.478,Provisional,26.71,Provisional
+2023-12-04 00:00,2.371,Provisional,26.64,Provisional
+2023-12-05 00:00,2.370,Provisional,26.60,Provisional
+2023-12-06 00:00,2.378,Provisional,27.48,Provisional
+2023-12-07 00:00,2.416,Provisional,31.82,Provisional
+2023-12-08 00:00,2.449,Provisional,35.68,Provisional
+2023-12-09 00:00,2.446,Provisional,35.23,Provisional
+2023-12-10 00:00,2.431,Provisional,33.43,Provisional
+2023-12-11 00:00,2.447,Provisional,35.33,Provisional
+2023-12-12 00:00,2.452,Provisional,35.91,Provisional
+2023-12-13 00:00,2.445,Provisional,35.13,Provisional
+2023-12-14 00:00,2.429,Provisional,33.18,Provisional
+2023-12-15 00:00,2.385,Provisional,28.21,Provisional
+2023-12-16 00:00,2.409,Provisional,30.96,Provisional
+2023-12-17 00:00,2.405,Provisional,30.60,Provisional
+2023-12-18 00:00,2.400,Provisional,30.64,Provisional
+2023-12-19 00:00,2.473,Provisional,31.10,Provisional
+2023-12-20 00:00,2.405,Provisional,30.40,Provisional
+2023-12-21 00:00,2.419,Provisional,32.03,Provisional
+2023-12-22 00:00,2.420,Provisional,32.07,Provisional
+2023-12-23 00:00,2.426,Provisional,32.79,Provisional
+2023-12-24 00:00,2.432,Provisional,33.49,Provisional
+2023-12-25 00:00,2.400,Provisional,32.42,Provisional
+2023-12-26 00:00,2.506,Provisional,32.42,Provisional
+2023-12-27 00:00,2.893,Provisional,30.98,Provisional
+2023-12-28 00:00,3.198,Provisional,31.06,Provisional
+2023-12-29 00:00,3.325,Provisional,30.55,Provisional
+2023-12-30 00:00,3.369,Provisional,29.23,Provisional
+2023-12-31 00:00,2.450,Provisional,29.22,Provisional
+2024-01-01 00:00,2.390,Provisional,28.51,Provisional
+2024-01-02 00:00,2.384,Provisional,27.91,Provisional
+2024-01-03 00:00,2.373,Provisional,26.67,Provisional
+2024-01-04 00:00,2.414,Provisional,31.37,Provisional
+2024-01-05 00:00,2.408,Provisional,30.75,Provisional
+2024-01-06 00:00,2.369,Provisional,26.15,Provisional
+2024-01-07 00:00,2.360,Provisional,25.19,Provisional
+2024-01-08 00:00,2.354,Provisional,24.56,Provisional
+2024-01-09 00:00,2.349,Provisional,23.97,Provisional
+2024-01-10 00:00,2.348,Provisional,23.89,Provisional
+2024-01-11 00:00,2.344,Provisional,23.44,Provisional
+2024-01-12 00:00,2.341,Provisional,23.11,Provisional
+2024-01-13 00:00,2.314,Provisional,20.36,Provisional
+2024-01-14 00:00,2.367,Provisional,26.10,Provisional
+2024-01-15 00:00,2.276,Provisional,16.40,Provisional
+2024-01-16 00:00,2.493,Provisional,16.05,Provisional
+2024-01-17 00:00,2.917,Provisional,19.13,Provisional
+2024-01-18 00:00,3.298,Provisional,18.72,Provisional
+2024-01-19 00:00,3.424,Provisional,17.74,Provisional
+2024-01-20 00:00,3.513,Provisional,18.73,Provisional
+2024-01-21 00:00,3.524,Provisional,19.07,Provisional
+2024-01-22 00:00,3.503,Provisional,19.27,Provisional
+2024-01-23 00:00,3.436,Provisional,22.75,Provisional
+2024-01-24 00:00,3.772,Provisional,22.85,Provisional
+2024-01-25 00:00,2.948,Provisional,22.71,Provisional
+2024-01-26 00:00,2.355,Provisional,24.49,Provisional
+2024-01-27 00:00,2.341,Provisional,22.93,Provisional
+2024-01-28 00:00,2.330,Provisional,21.73,Provisional
+2024-01-29 00:00,2.337,Provisional,22.41,Provisional
+2024-01-30 00:00,2.383,Provisional,27.49,Provisional
+2024-01-31 00:00,2.420,Provisional,31.72,Provisional
+2024-02-01 00:00,2.446,Provisional,34.72,Provisional
+2024-02-02 00:00,2.474,Provisional,38.04,Provisional
+2024-02-03 00:00,2.497,Provisional,40.88,Provisional
+2024-02-04 00:00,2.545,Provisional,47.05,Provisional
+2024-02-05 00:00,2.547,Provisional,47.26,Provisional
+2024-02-06 00:00,2.529,Provisional,45.03,Provisional
+2024-02-07 00:00,2.519,Provisional,43.76,Provisional
+2024-02-08 00:00,2.510,Provisional,42.58,Provisional
+2024-02-09 00:00,2.502,Provisional,41.61,Provisional
+2024-02-10 00:00,2.494,Provisional,40.56,Provisional
+2024-02-11 00:00,2.479,Provisional,38.77,Provisional
+2024-02-12 00:00,2.472,Provisional,37.81,Provisional
+2024-02-13 00:00,2.469,Provisional,37.51,Provisional
+2024-02-14 00:00,2.465,Provisional,37.02,Provisional
+2024-02-15 00:00,2.456,Provisional,35.87,Provisional
+2024-02-16 00:00,2.444,Provisional,34.48,Provisional
+2024-02-17 00:00,2.452,Provisional,35.46,Provisional
+2024-02-18 00:00,2.438,Provisional,33.92,Provisional
+2024-02-19 00:00,2.586,Provisional,52.40,Provisional
+2024-02-20 00:00,2.511,Provisional,42.89,Provisional
+2024-02-21 00:00,2.430,Provisional,32.85,Provisional
+2024-02-22 00:00,2.431,Provisional,32.91,Provisional
+2024-02-23 00:00,2.430,Provisional,32.78,Provisional
+2024-02-24 00:00,2.428,Provisional,32.55,Provisional
+2024-02-25 00:00,2.429,Provisional,32.69,Provisional
+2024-02-26 00:00,2.436,Provisional,33.49,Provisional
+2024-02-27 00:00,2.475,Provisional,38.24,Provisional
+2024-02-28 00:00,2.455,Provisional,35.77,Provisional
+2024-02-29 00:00,2.437,Provisional,33.61,Provisional
+2024-03-01 00:00,2.446,Provisional,34.70,Provisional
+2024-03-02 00:00,2.445,Provisional,34.62,Provisional
+2024-03-03 00:00,2.434,Provisional,33.23,Provisional
+2024-03-04 00:00,2.425,Provisional,32.23,Provisional
+2024-03-05 00:00,2.412,Provisional,30.78,Provisional
+2024-03-06 00:00,2.413,Provisional,30.87,Provisional
+2024-03-07 00:00,2.406,Provisional,30.00,Provisional
+2024-03-08 00:00,2.387,Provisional,27.87,Provisional
+2024-03-09 00:00,2.376,Provisional,26.75,Provisional
+2024-03-10 00:00,2.386,Provisional,27.83,Provisional
+2024-03-11 00:00,2.390,Provisional,28.18,Provisional
+2024-03-12 00:00,2.398,Provisional,29.17,Provisional
+2024-03-13 00:00,2.405,Provisional,29.88,Provisional
+2024-03-14 00:00,2.405,Provisional,29.93,Provisional
+2024-03-15 00:00,2.382,Provisional,27.34,Provisional
+2024-03-16 00:00,2.382,Provisional,27.39,Provisional
+2024-03-17 00:00,2.398,Provisional,29.19,Provisional
+2024-03-18 00:00,2.426,Provisional,32.34,Provisional
+2024-03-19 00:00,2.487,Provisional,39.73,Provisional
+2024-03-20 00:00,2.580,Provisional,51.56,Provisional
+2024-03-21 00:00,2.716,Provisional,69.15,Provisional
+2024-03-22 00:00,2.867,Provisional,87.68,Provisional
+2024-03-23 00:00,2.915,Provisional,93.65,Provisional
+2024-03-24 00:00,2.938,Provisional,97.95,Provisional
+2024-03-25 00:00,2.937,Provisional,97.68,Provisional
+2024-03-26 00:00,2.899,Provisional,91.65,Provisional
+2024-03-27 00:00,2.879,Provisional,89.10,Provisional
+2024-03-28 00:00,2.844,Provisional,84.77,Provisional
+2024-03-29 00:00,2.842,Provisional,84.54,Provisional
+2024-03-30 00:00,2.817,Provisional,81.54,Provisional
+2024-03-31 00:00,2.792,Provisional,78.45,Provisional
+2024-04-01 00:00,2.771,Provisional,75.93,Provisional
+2024-04-02 00:00,2.748,Provisional,73.07,Provisional
+2024-04-03 00:00,2.737,Provisional,71.83,Provisional
+2024-04-04 00:00,2.823,Provisional,82.33,Provisional
+2024-04-05 00:00,3.023,Provisional,116.7,Provisional
+2024-04-06 00:00,3.250,Provisional,173.2,Provisional
+2024-04-07 00:00,3.301,Provisional,187.0,Provisional
+2024-04-08 00:00,3.255,Provisional,174.4,Provisional
+2024-04-09 00:00,3.198,Provisional,159.1,Provisional
+2024-04-10 00:00,3.152,Provisional,147.1,Provisional
+2024-04-11 00:00,3.123,Provisional,139.9,Provisional
+2024-04-12 00:00,3.096,Provisional,133.4,Provisional
+2024-04-13 00:00,3.111,Provisional,136.9,Provisional
+2024-04-14 00:00,3.299,Provisional,187.1,Provisional
+2024-04-15 00:00,3.638,Provisional,295.8,Provisional
+2024-04-16 00:00,3.949,Provisional,417.8,Provisional
+2024-04-17 00:00,3.940,Provisional,413.0,Provisional
+2024-04-18 00:00,3.753,Provisional,338.0,Provisional
