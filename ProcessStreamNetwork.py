@@ -50,7 +50,7 @@ watershedname = "watershed.txt"
 gridname = "grid.bin"
 
 ## shapefile pour point
-shp_file = os.path.join(gis_data_path,shp_file_nm)
+shp_file = os.path.join(gis_derived_path,shp_file_nm)
 dem_file = os.path.join(gis_derived_path, dfname)
 flowacc_file = os.path.join(gis_derived_path, flowaccname)
 flowdir_file = os.path.join(gis_derived_path, flowdirname)
